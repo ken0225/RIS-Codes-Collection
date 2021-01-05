@@ -1,6 +1,6 @@
 # RIS_Codes_Collection
 
-## A collection contains the codes for RIS(IRS) papers
+## A collection contains the codes for RIS(IRS) codes.
 
 ## This is coming soon, you can join our WeChat group first. 
 
