@@ -6,6 +6,8 @@
 
 ## If you find new code for RIS(IRS) paper, please remind me [here](https://github.com/ken0225/RIS_Codes_Collection/issues). 
 
+## Best reading paper in RIS(IRS) is [here](https://www.comsoc.org/publications/best-readings/reconfigurable-intelligent-surfaces).
+
 |No.| Paper Title | Authors | 
 | ------ | ------ | ------ |
 |1| [Intelligent Reflecting Surface Operation under Predictable Receiver Mobility: A Continuous Time Propagation Model](https://github.com/bmatthiesen/IRS-continuous) | Bho Matthiesen, etal. | 
