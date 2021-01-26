@@ -4,6 +4,8 @@
 
 ![1](https://github.com/ken0225/RIS_Codes_Collection/blob/main/20210126.jpg)
 
+## If you find new code for RIS(IRS) paper, please remind me in [here](https://github.com/ken0225/RIS_Codes_Collection/issues). 
+
 |No.| Paper Title | Authors | 
 | ------ | ------ | ------ |
 |1| [Intelligent Reflecting Surface Operation under Predictable Receiver Mobility: A Continuous Time Propagation Model](https://github.com/bmatthiesen/IRS-continuous) | Bho Matthiesen, etal. | 
