@@ -16,10 +16,10 @@
 |4|[Power Scaling Laws and Near-Field Behaviors of Massive MIMO and Intelligent Reflecting Surfaces](https://github.com/emilbjornson/near-field-behavior)|Emil Björnson, etal.|
 |5|[Intelligent Reflecting Surface vs. Decode-and-Forward: How Large Surfaces Are Needed to Beat Relaying?](https://github.com/emilbjornson/IRS-relaying)|Emil Björnson, etal.|
 |6|[Enabling Large Intelligent Surfaces with Compressive Sensing and Deep Learning](https://github.com/Abdelrahman-Taha/LIS-DeepLearning)|Abdelrahman Taha, etal.|
-|7|[SimRIS Channel Simulator for Reconfigurable Intelligent Surfaces in Future Wireless Networks](https://corelab.ku.edu.tr/simrisv2-0/)|E. Basar, etal|
+|7|[SimRIS Channel Simulator for Reconfigurable Intelligent Surfaces in Future Wireless Networks](https://corelab.ku.edu.tr/simrisv2-0/)|E. Basar, etal.|
 |8|[Transmission Through Large Intelligent Surfaces: A New Frontier in Wireless Communications](https://corelab.ku.edu.tr/wp-content/uploads/2019/02/LIS_BER_MATLAB_Codes.zip)|E. Basar, etal.|
-|9|[Weighted Sum-Rate Maximization for Reconfigurable Intelligent Surface Aided Wireless Networks](https://github.com/guohuayan/WSR-maximization-for-RIS-system)|H. Guo, etal|
-|10|[]()||
+|9|[Weighted Sum-Rate Maximization for Reconfigurable Intelligent Surface Aided Wireless Networks](https://github.com/guohuayan/WSR-maximization-for-RIS-system)|H. Guo, etal.|
+|10|[Intelligent Reflecting Surface Aided Multi-User mmWave Communications for Coverage Enhancement](https://github.com/yashcao/Intelligent-reflecting-surface-aided-multi-user-mmWave-communications-for-coverage-enhancement)|Yashuai Cao, etal.|
 |11|[]()||
 |12|[]()||
 |13|[]()||
