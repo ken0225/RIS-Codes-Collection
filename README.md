@@ -4,7 +4,7 @@
 
 ![1](https://github.com/ken0225/RIS_Codes_Collection/blob/main/20210126.jpg)
 
-## If you find new code for RIS(IRS) paper, please remind me in [here](https://github.com/ken0225/RIS_Codes_Collection/issues). 
+## If you find new code for RIS(IRS) paper, please remind me [here](https://github.com/ken0225/RIS_Codes_Collection/issues). 
 
 |No.| Paper Title | Authors | 
 | ------ | ------ | ------ |
