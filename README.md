@@ -24,7 +24,7 @@
 |12|[DeepIRS](https://github.com/CodeCasting/DeepIRS)|N/A|
 |13|[RA-NOMA](https://github.com/roamiri/RA-NOMA)|Roamiri|
 |14|[UAV-RIS-DRL](https://github.com/HaiboMei/UAV-RIS-DRL)|HaiboMei|
-|15|[]()||
+|15|[PARAFAC-Based Channel Estimation for Intelligent Reflective Surface Assisted MIMO System](https://github.com/TianLin0509/reproduction_of_BALS)|TianLin(reproduction work)|
 |16|[]()||
 |17|[]()||
 |18|[]()||
