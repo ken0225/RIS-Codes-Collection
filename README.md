@@ -21,7 +21,7 @@
 |9|[Weighted Sum-Rate Maximization for Reconfigurable Intelligent Surface Aided Wireless Networks](https://github.com/guohuayan/WSR-maximization-for-RIS-system)|H. Guo, etal.|
 |10|[Intelligent Reflecting Surface Aided Multi-User mmWave Communications for Coverage Enhancement](https://github.com/yashcao/Intelligent-reflecting-surface-aided-multi-user-mmWave-communications-for-coverage-enhancement)|Yashuai Cao, etal.|
 |11|[Diagnosis of Intelligent Reflecting Surface in Millimeter-wave Communication Systems](https://github.com/DestinationSR/IRSdiagnosis)|Rui Sun, etal.|
-|12|[DeepIRS](https://github.com/CodeCasting/DeepIRS)||
+|12|[DeepIRS](https://github.com/CodeCasting/DeepIRS)|N/A|
 |13|[]()||
 |14|[]()||
 |15|[]()||
