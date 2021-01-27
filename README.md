@@ -22,7 +22,7 @@
 |10|[Intelligent Reflecting Surface Aided Multi-User mmWave Communications for Coverage Enhancement](https://github.com/yashcao/Intelligent-reflecting-surface-aided-multi-user-mmWave-communications-for-coverage-enhancement)|Yashuai Cao, etal.|
 |11|[Diagnosis of Intelligent Reflecting Surface in Millimeter-wave Communication Systems](https://github.com/DestinationSR/IRSdiagnosis)|Rui Sun, etal.|
 |12|[DeepIRS](https://github.com/CodeCasting/DeepIRS)|N/A|
-|13|[RA-NOMA](https://github.com/roamiri/RA-NOMA)|roamiri|
+|13|[RA-NOMA](https://github.com/roamiri/RA-NOMA)|Roamiri|
 |14|[UAV-RIS-DRL](https://github.com/HaiboMei/UAV-RIS-DRL)|HaiboMei|
 |15|[]()||
 |16|[]()||
