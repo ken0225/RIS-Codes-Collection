@@ -20,8 +20,8 @@
 |8|[Transmission Through Large Intelligent Surfaces: A New Frontier in Wireless Communications](https://corelab.ku.edu.tr/wp-content/uploads/2019/02/LIS_BER_MATLAB_Codes.zip)|E. Basar, etal.|
 |9|[Weighted Sum-Rate Maximization for Reconfigurable Intelligent Surface Aided Wireless Networks](https://github.com/guohuayan/WSR-maximization-for-RIS-system)|H. Guo, etal.|
 |10|[Intelligent Reflecting Surface Aided Multi-User mmWave Communications for Coverage Enhancement](https://github.com/yashcao/Intelligent-reflecting-surface-aided-multi-user-mmWave-communications-for-coverage-enhancement)|Yashuai Cao, etal.|
-|11|[]()||
-|12|[]()||
+|11|[Diagnosis of Intelligent Reflecting Surface in Millimeter-wave Communication Systems](https://github.com/DestinationSR/IRSdiagnosis)|Rui Sun, etal.|
+|12|[DeepIRS](https://github.com/CodeCasting/DeepIRS)||
 |13|[]()||
 |14|[]()||
 |15|[]()||
