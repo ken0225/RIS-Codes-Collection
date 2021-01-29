@@ -1,9 +1,5 @@
 # RIS(IRS)_Codes_Collection: A collection contains the codes for RIS(IRS) papers.
 
-## You can join our WeChat group for more information on RIS(IRS). SCAN the QR code as follow please. 
-
-![1](https://github.com/ken0225/RIS_Codes_Collection/blob/main/20210126.jpg)
-
 ## If you find new code for RIS(IRS) paper, please remind me [here](https://github.com/ken0225/RIS_Codes_Collection/issues). 
 
 ## Best reading paper in RIS(IRS) is [here](https://www.comsoc.org/publications/best-readings/reconfigurable-intelligent-surfaces).
