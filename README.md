@@ -23,8 +23,8 @@
 |13|[RA-NOMA](https://github.com/roamiri/RA-NOMA)|Roamiri.|
 |14|[UAV-RIS-DRL](https://github.com/HaiboMei/UAV-RIS-DRL)|HaiboMei.|
 |15|[PARAFAC-Based Channel Estimation for Intelligent Reflective Surface Assisted MIMO System](https://github.com/TianLin0509/reproduction_of_BALS)|TianLin(reproduction work).|
-|16|[A Framework of Robust Transmission Design for IRS-Aided MISO Communications With Imperfect Cascaded Channels](https://github.com/ken0225/Framework-of-Robust-Transmission-Design-for-IRS-Aided-MISO-Communications)|G. Zhou, C. Pan， etal|
-|17|[]()||
+|16|[A Framework of Robust Transmission Design for IRS-Aided MISO Communications With Imperfect Cascaded Channels](https://github.com/ken0225/Framework-of-Robust-Transmission-Design-for-IRS-Aided-MISO-Communications)|G. Zhou, C. Pan， etal.|
+|17|[SISO RIS-Enabled Joint 3D Downlink Localization and Synchronization](https://github.com/KamranKeykhosravi/RIS-Enabled-SISO-Localization)|Kamran Keykhosravi, etal.|
 |18|[]()||
 |19|[]()||
 |20|[]()||
