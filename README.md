@@ -26,7 +26,7 @@
 |16|[A Framework of Robust Transmission Design for IRS-Aided MISO Communications With Imperfect Cascaded Channels](https://github.com/ken0225/Framework-of-Robust-Transmission-Design-for-IRS-Aided-MISO-Communications)|G. Zhou, C. Pan， etal.|
 |17|[SISO RIS-Enabled Joint 3D Downlink Localization and Synchronization](https://github.com/KamranKeykhosravi/RIS-Enabled-SISO-Localization)|Kamran Keykhosravi, etal.|
 |18|[Near-field Localization with a Reconfigurable Intelligent Surface Acting as Lens](https://github.com/henkwymeersch/RISLensLocalization)|Zohair Abu-Shaban, etal.|
-|19|[]()||
+|19|[Channel Estimation for RIS Assisted Wireless Communications: Part II - An Improved Solution Based on Double-Structured Sparsity](http://oa.ee.tsinghua.edu.cn/dailinglong/publications/code/Channel%20estimation%20for%20RIS%20assisted%20wireless%20communications.zip)| Linglong Dai, etal.|
 |20|[]()||
 |21|[]()||
 |22|[]()||
