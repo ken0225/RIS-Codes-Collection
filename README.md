@@ -4,6 +4,8 @@
 
 ## Best reading paper in RIS(IRS) is [here](https://www.comsoc.org/publications/best-readings/reconfigurable-intelligent-surfaces).
 
+## Some authorizations by authors can be found [here](https://github.com/bmatthiesen/IRS-continuous/issues/1) and [here](https://github.com/emilbjornson/IRS-relaying/issues/1).
+
 ## We also have WeChat group for RIS(IRS). If you want to join, send your WeChat ID to kewang0225@gmail.com. 
 
 |No.| Paper Title | Authors | 
