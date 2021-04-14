@@ -1,4 +1,4 @@
-# IMPORTANT: If you in any way use the code in this collection for research that results in publications, please cite the original article.
+# IMPORTANT: If you in any way use the code in this collection for research that results in publications, please CITE the original article.
 
 # RIS(IRS)_Codes_Collection: A collection contains the codes for RIS(IRS) papers.
 
