@@ -1,3 +1,5 @@
+# Important: If you in any way use the code in this collection for research that results in publications, please cite the original article.
+
 # RIS(IRS)_Codes_Collection: A collection contains the codes for RIS(IRS) papers.
 
 ## If you find new code for RIS(IRS) paper, please remind me [here](https://github.com/ken0225/RIS_Codes_Collection/issues). 
