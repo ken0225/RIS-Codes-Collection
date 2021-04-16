@@ -2,13 +2,13 @@
 
 # RIS(IRS)_Codes_Collection: A collection contains the codes for RIS(IRS) papers.
 
-## If you find new code for RIS(IRS) paper, please remind me [here](https://github.com/ken0225/RIS_Codes_Collection/issues). 
+* If you find new code for RIS(IRS) paper, please remind me [here](https://github.com/ken0225/RIS_Codes_Collection/issues). 
 
-## Best reading paper in RIS(IRS) is [here](https://www.comsoc.org/publications/best-readings/reconfigurable-intelligent-surfaces).
+* Best reading paper in RIS(IRS) is [here](https://www.comsoc.org/publications/best-readings/reconfigurable-intelligent-surfaces).
 
-## Some authorizations by authors can be found [here](https://github.com/bmatthiesen/IRS-continuous/issues/1) and [here](https://github.com/emilbjornson/IRS-relaying/issues/1).
+* Some authorizations by authors can be found [here](https://github.com/bmatthiesen/IRS-continuous/issues/1) and [here](https://github.com/emilbjornson/IRS-relaying/issues/1).
 
-## We also have WeChat group for RIS(IRS). If you want to join, please send your WeChat ID to kewang0225@gmail.com. 
+* We also have WeChat group for RIS(IRS). If you want to join, please send your WeChat ID to kewang0225@gmail.com. 
 
 |No.| Paper Title | Authors | 
 | ------ | ------ | ------ |
