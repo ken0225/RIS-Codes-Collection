@@ -36,7 +36,7 @@
 |22|[Deep Channel Learning For Large Intelligent Surfaces Aided mm-Wave Massive MIMO Systems](https://github.com/meuseabe/deepChannelLearning4RIS)|A. M. Elbir, etal.|
 |23|[Matrix-calibration-based cascaded channel estimation for reconfigurable intelligent surface assisted multiuser MIMO](https://github.com/liuhang1994/Matrix-Calibration-Based-Cascaded-Channel-Estimation)|Hang Liu, etal.|
 |24|[Reconfigurable-Intelligent-Surface Empowered Wireless Communications: Challenges and Opportunities](https://github.com/liuhang1994/RIS_Rate_VS_Channel_Error)|X. Yuan, etal.|
-|25|[]()||
+|25|[Deep Denoising Neural Network Assisted Compressive Channel Estimation for mmWave Intelligent Reflecting Surfaces](https://github.com/scliubit/complex-DnCNN)|S. Liu, etal|
 |26|[]()||
 |27|[]()||
 |28|[]()||
