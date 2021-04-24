@@ -8,7 +8,7 @@
 
 * Some authorizations by authors can be found [here](https://github.com/bmatthiesen/IRS-continuous/issues/1) and [here](https://github.com/emilbjornson/IRS-relaying/issues/1).
 
-* We also have WeChat group for RIS(IRS). If you want to join, please send your WeChat ID to kewang0225@gmail.com. 
+* We also have WeChat group for RIS(IRS). If you want to join, please send your WeChat ID to kewang0225@gmail.com. In the email, please state your real name and school. 
 
 |No.| Paper Title | Authors | 
 | ------ | ------ | ------ |
