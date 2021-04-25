@@ -37,8 +37,8 @@
 |23|[Matrix-calibration-based cascaded channel estimation for reconfigurable intelligent surface assisted multiuser MIMO](https://github.com/liuhang1994/Matrix-Calibration-Based-Cascaded-Channel-Estimation)|Hang Liu, etal.|
 |24|[Reconfigurable-Intelligent-Surface Empowered Wireless Communications: Challenges and Opportunities](https://github.com/liuhang1994/RIS_Rate_VS_Channel_Error)|X. Yuan, etal.|
 |25|[Deep Denoising Neural Network Assisted Compressive Channel Estimation for mmWave Intelligent Reflecting Surfaces](https://github.com/scliubit/complex-DnCNN)|S. Liu, etal|
-|26|[Terahertz Massive MIMO with Holographic Reconfigurable Intelligent Surfaces](https://github.com/gaozhen16/Source-Code-Z.Wan/tree/main/Code_THzHoloRIS_CSbasedCE/Code_THzHoloRIS_CSbasedCE)|Z. Wan, etal|
-|27|[]()||
+|26|[Terahertz Massive MIMO with Holographic Reconfigurable Intelligent Surfaces](https://github.com/gaozhen16/Source-Code-Z.Wan/tree/main/Code_THzHoloRIS_CSbasedCE/Code_THzHoloRIS_CSbasedCE)|Z. Wan, etal.|
+|27|[Copula-Based Bounds for Multi-User Communications](https://gitlab.com/klb2/copula-mu-performance-bounds)|Karl-L. Besser, etal.|
 |28|[]()||
 |29|[]()||
 |30|[]()||
