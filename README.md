@@ -39,8 +39,7 @@
 |25|[Deep Denoising Neural Network Assisted Compressive Channel Estimation for mmWave Intelligent Reflecting Surfaces](https://github.com/scliubit/complex-DnCNN)|S. Liu, etal|
 |26|[Terahertz Massive MIMO with Holographic Reconfigurable Intelligent Surfaces](https://github.com/gaozhen16/Source-Code-Z.Wan/tree/main/Code_THzHoloRIS_CSbasedCE/Code_THzHoloRIS_CSbasedCE)|Z. Wan, etal.|
 |27|[Copula-Based Bounds for Multi-User Communications](https://gitlab.com/klb2/copula-mu-performance-bounds)|Karl-L. Besser, etal.|
-|28|[Channel Estimation for Intelligent Reflecting Surface Assisted Multiuser 
-Communications: Framework,  Algorithms, and Analysis](https://github.com/Zhaoruiwang/Channel-Estimation-for-Intelligent-Reflecting-Surface-Assisted-Multiuser-Communications/blob/main/read%20me%20first.txt)|Z. Wang, etal|
+|28|[Channel Estimation for Intelligent Reflecting Surface Assisted Multiuser Communications](https://github.com/Zhaoruiwang/Channel-Estimation-for-Intelligent-Reflecting-Surface-Assisted-Multiuser-Communications/blob/main/read%20me%20first.txt)|Z. Wang, etal|
 |29|[]()||
 |30|[]()||
 |31|[]()||
