@@ -40,7 +40,7 @@
 |26|[Terahertz Massive MIMO with Holographic Reconfigurable Intelligent Surfaces](https://github.com/gaozhen16/Source-Code-Z.Wan/tree/main/Code_THzHoloRIS_CSbasedCE/Code_THzHoloRIS_CSbasedCE)|Z. Wan, etal.|
 |27|[Copula-Based Bounds for Multi-User Communications](https://gitlab.com/klb2/copula-mu-performance-bounds)|Karl-L. Besser, etal.|
 |28|[Channel Estimation for Intelligent Reflecting Surface Assisted Multiuser Communications](https://github.com/Zhaoruiwang/Channel-Estimation-for-Intelligent-Reflecting-Surface-Assisted-Multiuser-Communications)|Z. Wang, etal|
-|29|[]()||
+|29|[Multi-RIS-aided Wireless Systems: Statistical Characterization and Performance Analysis](https://github.com/trinhudo/Multi-RIS)|Tri Nhu Do, etal.|
 |30|[]()||
 |31|[]()||
 |32|[]()||
