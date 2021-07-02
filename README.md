@@ -44,8 +44,8 @@
 |29|[Multi-RIS-aided Wireless Systems: Statistical Characterization and Performance Analysis](https://github.com/trinhudo/Multi-RIS)|Tri Nhu Do, etal.|
 |30|[Aerial Reconfigurable Intelligent Surface-Aided Wireless Communication Systems](https://github.com/trinhudo/Aerial-RIS)|Tri Nhu Do, etal.|
 |31|[Reconfigurable intelligent surface enabled federated learning: A unified communication-learning design approach](https://github.com/liuhang1994/RIS-FL)|Hang Liu, etal.|
-|32|[]()||
-|33|[]()||
+|32|[Channel Estimation for Reconfigurable Intelligent Surface Aided Multi-User mmWave MIMO Systems](https://github.com/jayJieChen/ChannelEstimation-RIS-MUmmWAVe-MIMO-Systems)|Jiajie Chen, etal.|
+|33|[Reconfigurable Intelligent Surface for Enhanced Communication Techniques](https://github.com/saarthaksm29/Reconfigurable-Intelligent-Surface)|saarthaksm29|
 |34|[]()||
 |35|[]()||
 |36|[]()||
