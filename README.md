@@ -42,7 +42,7 @@
 |27|[Copula-Based Bounds for Multi-User Communications](https://gitlab.com/klb2/copula-mu-performance-bounds)|Karl-L. Besser, etal.|
 |28|[Channel Estimation for Intelligent Reflecting Surface Assisted Multiuser Communications](https://github.com/Zhaoruiwang/Channel-Estimation-for-Intelligent-Reflecting-Surface-Assisted-Multiuser-Communications)|Z. Wang, etal|
 |29|[Multi-RIS-aided Wireless Systems: Statistical Characterization and Performance Analysis](https://github.com/trinhudo/Multi-RIS)|Tri Nhu Do, etal.|
-|30|[]()||
+|30|[Aerial Reconfigurable Intelligent Surface-Aided Wireless Communication Systems](https://github.com/trinhudo/Aerial-RIS)|Tri Nhu Do, etal.|
 |31|[]()||
 |32|[]()||
 |33|[]()||
