@@ -43,7 +43,7 @@
 |28|[Channel Estimation for Intelligent Reflecting Surface Assisted Multiuser Communications](https://github.com/Zhaoruiwang/Channel-Estimation-for-Intelligent-Reflecting-Surface-Assisted-Multiuser-Communications)|Z. Wang, etal|
 |29|[Multi-RIS-aided Wireless Systems: Statistical Characterization and Performance Analysis](https://github.com/trinhudo/Multi-RIS)|Tri Nhu Do, etal.|
 |30|[Aerial Reconfigurable Intelligent Surface-Aided Wireless Communication Systems](https://github.com/trinhudo/Aerial-RIS)|Tri Nhu Do, etal.|
-|31|[]()||
+|31|[Reconfigurable intelligent surface enabled federated learning: A unified communication-learning design approach](https://github.com/liuhang1994/RIS-FL)|Hang Liu, etal.|
 |32|[]()||
 |33|[]()||
 |34|[]()||
