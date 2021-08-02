@@ -49,7 +49,7 @@
 |33|[Reconfigurable Intelligent Surface for Enhanced Communication Techniques](https://github.com/saarthaksm29/Reconfigurable-Intelligent-Surface)|saarthaksm29|
 |34|[Two-Timescale Channel Estimation for Reconfigurable Intelligent Surface Aided Wireless Communications](http://oa.ee.tsinghua.edu.cn/dailinglong/publications/code/Two-timescale%20channel%20estimation%20for%20reconfigurable%20intelligent%20surface%20aided%20wireless%20communications.zip)|Chen Hu, etal.|
 |35|[A joint precoding framework for wideband reconfigurable intelligent surface-aided cell-free network](http://oa.ee.tsinghua.edu.cn/dailinglong/publications/code/A%20joint%20precoding%20framework%20for%20wideband%20reconfigurable%20intelligent%20surface-aided%20cell-free%20network.zip)|Z. Zhang, etal.|
-|36|[]()||
+|36|[Multiple Antenna Selection and Successive Signal Detection for SM-Based IRS-Aided Communication](https://github.com/hasanabs/MAS_SSD)|H. Albinsaid, etal|
 |37|[]()||
 |38|[]()||
 |39|[]()||
