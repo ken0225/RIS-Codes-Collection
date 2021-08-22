@@ -51,7 +51,7 @@
 |35|[A joint precoding framework for wideband reconfigurable intelligent surface-aided cell-free network](http://oa.ee.tsinghua.edu.cn/dailinglong/publications/code/A%20joint%20precoding%20framework%20for%20wideband%20reconfigurable%20intelligent%20surface-aided%20cell-free%20network.zip)|Z. Zhang, etal.|
 |36|[Multiple Antenna Selection and Successive Signal Detection for SM-Based IRS-Aided Communication](https://github.com/hasanabs/MAS_SSD)|H. Albinsaid, etal|
 |37|[RISs for Doppler Effect and Multipath Fading Mitigation](https://corelab.ku.edu.tr/wp-content/uploads/2019/12/Doppler-RISs.zip)|E. Basar, etal.|
-|38|[]()||
+|38|[Dimension reduced channel feedback for reconfigurable intelligent surface aided wireless communications](http://oa.ee.tsinghua.edu.cn/dailinglong/publications/code/Dimension%20reduced%20channel%20feedback%20for%20reconfigurable%20intelligent%20surface%20aided%20wireless%20communications.zip)|Linglong Dai, etal.|
 |39|[]()||
 |40|[]()||
 
