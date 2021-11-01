@@ -54,7 +54,7 @@
 |38|[Dimension reduced channel feedback for reconfigurable intelligent surface aided wireless communications](http://oa.ee.tsinghua.edu.cn/dailinglong/publications/code/Dimension%20reduced%20channel%20feedback%20for%20reconfigurable%20intelligent%20surface%20aided%20wireless%20communications.zip)|Linglong Dai, etal.|
 |39|[Learning to Reflect and to Beamform for Intelligent Reflecting Surface with Implicit Channel Estimation](https://github.com/taojiang-github/GNN-IRS-Beamforming-Reflection)|Tao Jiang, etal.|
 |40|[A Primer on Near-Field Beamforming for Arrays and Reconfigurable Intelligent Surfaces](https://github.com/emilbjornson/nearfield-primer)|Emil Björnson, etal.|
-|41|[]()||
+|41|[Convolutional Autoencoder-Based Phase Shift Feedback Compression for Intelligent Reflecting Surface-Assisted Wireless Systems](https://github.com/xian-hua/PSCDN)|X. Yu, etal.|
 |42|[]()||
 |43|[]()||
 |44|[]()||
