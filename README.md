@@ -55,7 +55,12 @@
 |39|[Learning to Reflect and to Beamform for Intelligent Reflecting Surface with Implicit Channel Estimation](https://github.com/taojiang-github/GNN-IRS-Beamforming-Reflection)|Tao Jiang, etal.|
 |40|[A Primer on Near-Field Beamforming for Arrays and Reconfigurable Intelligent Surfaces](https://github.com/emilbjornson/nearfield-primer)|Emil Björnson, etal.|
 |41|[Convolutional Autoencoder-Based Phase Shift Feedback Compression for Intelligent Reflecting Surface-Assisted Wireless Systems](https://github.com/xian-hua/PSCDN)|X. Yu, etal.|
-|42|[]()||
-|43|[]()||
-|44|[]()||
+|42|[Channel estimation for extremely large-scale massive MIMO far-field near-field or hybrid-field?](http://oa.ee.tsinghua.edu.cn/dailinglong/publications/code/Channel%20estimation%20for%20extremely%20large-scale%20massive%20MIMO%20far-field%20near-field%20or%20hybrid-field.zip)|Linglong Dai, etal.|
+|43|[Active reconfigurable intelligent surface: Fully-connected or sub-connected?](http://oa.ee.tsinghua.edu.cn/dailinglong/publications/code/Active%20reconfigurable%20intelligent%20surface%20fully-connected%20or%20sub-connected.zip)|Linglong Dai, etal.|
+|44|[Compact user-specific reconfigurable intelligent surfaces for uplink transmission](http://oa.ee.tsinghua.edu.cn/dailinglong/publications/code/Compact%20user-specific%20reconfigurable%20intelligent%20surfaces%20for%20uplink%20transmission.zip)|Linglong Dai, etal.|
 |45|[]()||
+|46|[]()||
+|47|[]()||
+|48|[]()||
+|49|[]()||
+|50|[]()||
