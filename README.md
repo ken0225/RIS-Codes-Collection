@@ -58,7 +58,7 @@
 |42|[Channel estimation for extremely large-scale massive MIMO far-field near-field or hybrid-field?](http://oa.ee.tsinghua.edu.cn/dailinglong/publications/code/Channel%20estimation%20for%20extremely%20large-scale%20massive%20MIMO%20far-field%20near-field%20or%20hybrid-field.zip)|Linglong Dai, etal.|
 |43|[Active reconfigurable intelligent surface: Fully-connected or sub-connected?](http://oa.ee.tsinghua.edu.cn/dailinglong/publications/code/Active%20reconfigurable%20intelligent%20surface%20fully-connected%20or%20sub-connected.zip)|Linglong Dai, etal.|
 |44|[Compact user-specific reconfigurable intelligent surfaces for uplink transmission](http://oa.ee.tsinghua.edu.cn/dailinglong/publications/code/Compact%20user-specific%20reconfigurable%20intelligent%20surfaces%20for%20uplink%20transmission.zip)|Linglong Dai, etal.|
-|45|[IRS-Aided SWIPT: Joint Waveform, Active and Passive Beamforming Design Under Nonlinear Harvester Model](Yang Zhao, etal.)|https://github.com/SnowzTail/irs-aided-swipt-joint-waveform-active-and-passive-beamforming-design-under-nonlinear-harvester-model/tree/master/src|
+|45|[IRS-Aided SWIPT: Joint Waveform, Active and Passive Beamforming Design Under Nonlinear Harvester Model](https://github.com/SnowzTail/irs-aided-swipt-joint-waveform-active-and-passive-beamforming-design-under-nonlinear-harvester-model/tree/master/src)|Yang Zhao, etal.|
 |46|[]()||
 |47|[]()||
 |48|[]()||
