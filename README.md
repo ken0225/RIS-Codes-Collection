@@ -60,7 +60,7 @@
 |44|[Compact user-specific reconfigurable intelligent surfaces for uplink transmission](http://oa.ee.tsinghua.edu.cn/dailinglong/publications/code/Compact%20user-specific%20reconfigurable%20intelligent%20surfaces%20for%20uplink%20transmission.zip)|Linglong Dai, etal.|
 |45|[IRS-Aided SWIPT: Joint Waveform, Active and Passive Beamforming Design Under Nonlinear Harvester Model](https://github.com/SnowzTail/irs-aided-swipt-joint-waveform-active-and-passive-beamforming-design-under-nonlinear-harvester-model/tree/master/src)|Yang Zhao, etal.|
 |46|[Reconfigurable Intelligent Surfaces: Tradeoff between Unit-Cell- and Surface-Level Design under Quantifiable Benchmarks](https://ieee-dataport.org/documents/reconfigurable-intelligent-surfaceris-benchmarking-results-and-simulation-code#comment-form)|AMMARRAFIQUE, etal.|
-|47|[]()||
+|47|[Secure Wireless Communication in RIS-Aided MISO System With Hardware Impairments](https://github.com/ZhouGuiGuiGui/Secure-Wireless-Communication-in-RIS-Aided-MISO-System-With-Hardware-Impairments)|Gui Zhou, etal.|
 |48|[]()||
 |49|[]()||
 |50|[]()||
