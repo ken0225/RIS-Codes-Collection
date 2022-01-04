@@ -61,6 +61,6 @@
 |45|[IRS-Aided SWIPT: Joint Waveform, Active and Passive Beamforming Design Under Nonlinear Harvester Model](https://github.com/SnowzTail/irs-aided-swipt-joint-waveform-active-and-passive-beamforming-design-under-nonlinear-harvester-model/tree/master/src)|Yang Zhao, etal.|
 |46|[Reconfigurable Intelligent Surfaces: Tradeoff between Unit-Cell- and Surface-Level Design under Quantifiable Benchmarks](https://ieee-dataport.org/documents/reconfigurable-intelligent-surfaceris-benchmarking-results-and-simulation-code#comment-form)|AMMARRAFIQUE, etal.|
 |47|[Secure Wireless Communication in RIS-Aided MISO System With Hardware Impairments](https://github.com/ZhouGuiGuiGui/Secure-Wireless-Communication-in-RIS-Aided-MISO-System-With-Hardware-Impairments)|Gui Zhou, etal.|
-|48|[]()||
+|48|[Reconfigurable Intelligent Surfaces: A Signal Processing Perspective With Wireless Applications](https://github.com/emilbjornson/SPM_RIS)|Emil Björnson, etal|
 |49|[]()||
 |50|[]()||
