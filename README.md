@@ -12,6 +12,8 @@
 
 * In the email, please state 1) your real NAME, 2) your UNIVERSITY, 3) your GRADE (e.g., first-year master's student) and 4) your WeChat ID. Note that the information above is a must due to some reasons. 
 
+* Some uncompleted/inferior-quality works would be removed from the list.
+
 |No.| Paper Title | Authors | 
 | ------ | ------ | ------ |
 |1| [Intelligent Reflecting Surface Operation under Predictable Receiver Mobility: A Continuous Time Propagation Model](https://github.com/bmatthiesen/IRS-continuous) | Bho Matthiesen, etal. | 
