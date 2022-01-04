@@ -62,5 +62,5 @@
 |46|[Reconfigurable Intelligent Surfaces: Tradeoff between Unit-Cell- and Surface-Level Design under Quantifiable Benchmarks](https://ieee-dataport.org/documents/reconfigurable-intelligent-surfaceris-benchmarking-results-and-simulation-code#comment-form)|AMMARRAFIQUE, etal.|
 |47|[Secure Wireless Communication in RIS-Aided MISO System With Hardware Impairments](https://github.com/ZhouGuiGuiGui/Secure-Wireless-Communication-in-RIS-Aided-MISO-System-With-Hardware-Impairments)|Gui Zhou, etal.|
 |48|[Reconfigurable Intelligent Surfaces: A Signal Processing Perspective With Wireless Applications](https://github.com/emilbjornson/SPM_RIS)|Emil Björnson, etal|
-|49|[]()||
+|49|[IEEE Signal Processing Cup 2021](https://github.com/emilbjornson/SP_Cup_2021)|Emil Björnson, etal|
 |50|[]()||
