@@ -63,3 +63,4 @@
 |48|[Reconfigurable Intelligent Surfaces: A Signal Processing Perspective With Wireless Applications](https://github.com/emilbjornson/SPM_RIS)|Emil Björnson, etal|
 |49|[IEEE Signal Processing Cup 2021](https://github.com/emilbjornson/SP_Cup_2021)|Emil Björnson, etal|
 |50|[Intelligent Reflecting Surface Aided Vehicular Communications](https://github.com/dilin993/IRS_Aided_Vehicular_Communications)|Dilin Dampahalage, etal|
+|51|[Electromagnetic Model of Reflective Intelligent Surfaces](https://github.com/MicheleBorgese/Intelligent-Surfaces)|Filippo Costa, etal|
