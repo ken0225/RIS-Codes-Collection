@@ -27,6 +27,7 @@
 |9|[Weighted Sum-Rate Maximization for Reconfigurable Intelligent Surface Aided Wireless Networks](https://github.com/guohuayan/WSR-maximization-for-RIS-system)|H. Guo, etal.|
 |10|[Intelligent Reflecting Surface Aided Multi-User mmWave Communications for Coverage Enhancement](https://github.com/yashcao/Intelligent-reflecting-surface-aided-multi-user-mmWave-communications-for-coverage-enhancement)|Yashuai Cao, etal.|
 |11|[Diagnosis of Intelligent Reflecting Surface in Millimeter-wave Communication Systems](https://github.com/DestinationSR/IRSdiagnosis)|Rui Sun, etal.|
+|12|[Intelligent Reflecting Surfaces: Physics, Propagation, and Pathloss Modeling](https://github.com/emilbjornson/IRS-modeling)|Özgecan Özdogan, etal.|
 |15|[PARAFAC-Based Channel Estimation for Intelligent Reflective Surface Assisted MIMO System](https://github.com/TianLin0509/reproduction_of_BALS)|TianLin(reproduction work).|
 |16|[A Framework of Robust Transmission Design for IRS-Aided MISO Communications With Imperfect Cascaded Channels](https://github.com/ken0225/Framework-of-Robust-Transmission-Design-for-IRS-Aided-MISO-Communications)|G. Zhou, C. Pan， etal.|
 |17|[SISO RIS-Enabled Joint 3D Downlink Localization and Synchronization](https://github.com/KamranKeykhosravi/RIS-Enabled-SISO-Localization)|Kamran Keykhosravi, etal.|
