@@ -10,7 +10,7 @@
 
 * We have WeChat group for RIS(IRS). If you want to join, please send an email to ke.wang@ipm.edu.mo. 
 
-* In the email, please state 1) your real NAME, 2) your UNIVERSITY, 3) your GRADE (e.g., first-year master's student) and 4) your WeChat ID. Note that the information above is a must due to some reasons. 
+* In the email, please state 1) your real NAME, 2) your UNIVERSITY, and 3) your GRADE (e.g., first-year master's student). Note that the information above is a must due to some reasons. 
 
 * Some uncompleted/inferior-quality works would be removed from the list.
 
