@@ -61,7 +61,8 @@
 |45|[IRS-Aided SWIPT: Joint Waveform, Active and Passive Beamforming Design Under Nonlinear Harvester Model](https://github.com/SnowzTail/irs-aided-swipt-joint-waveform-active-and-passive-beamforming-design-under-nonlinear-harvester-model/tree/master/src)|Yang Zhao, etal.|
 |46|[Reconfigurable Intelligent Surfaces: Tradeoff between Unit-Cell- and Surface-Level Design under Quantifiable Benchmarks](https://ieee-dataport.org/documents/reconfigurable-intelligent-surfaceris-benchmarking-results-and-simulation-code#comment-form)|Ammarrafique, etal.|
 |47|[Secure Wireless Communication in RIS-Aided MISO System With Hardware Impairments](https://github.com/ZhouGuiGuiGui/Secure-Wireless-Communication-in-RIS-Aided-MISO-System-With-Hardware-Impairments)|Gui Zhou, etal.|
-|48|[Reconfigurable Intelligent Surfaces: A Signal Processing Perspective With Wireless Applications](https://github.com/emilbjornson/SPM_RIS)|Emil Björnson, etal|
-|49|[IEEE Signal Processing Cup 2021](https://github.com/emilbjornson/SP_Cup_2021)|Emil Björnson, etal|
-|50|[Intelligent Reflecting Surface Aided Vehicular Communications](https://github.com/dilin993/IRS_Aided_Vehicular_Communications)|Dilin Dampahalage, etal|
-|51|[Electromagnetic Model of Reflective Intelligent Surfaces](https://github.com/MicheleBorgese/Intelligent-Surfaces)|Filippo Costa, etal|
+|48|[Reconfigurable Intelligent Surfaces: A Signal Processing Perspective With Wireless Applications](https://github.com/emilbjornson/SPM_RIS)|Emil Björnson, etal.|
+|49|[IEEE Signal Processing Cup 2021](https://github.com/emilbjornson/SP_Cup_2021)|Emil Björnson, etal.|
+|50|[Intelligent Reflecting Surface Aided Vehicular Communications](https://github.com/dilin993/IRS_Aided_Vehicular_Communications)|Dilin Dampahalage, etal.|
+|51|[Electromagnetic Model of Reflective Intelligent Surfaces](https://github.com/MicheleBorgese/Intelligent-Surfaces)|Filippo Costa, etal.|
+|52|[Reconfigurable intelligent surface enabled federated learning: A unified communication-learning design approach](https://github.com/liuhang1994/RIS-FL)|Hang Liu, etal.|
