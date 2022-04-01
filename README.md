@@ -65,4 +65,8 @@
 |49|[IEEE Signal Processing Cup 2021](https://github.com/emilbjornson/SP_Cup_2021)|Emil Björnson, etal.|
 |50|[Intelligent Reflecting Surface Aided Vehicular Communications](https://github.com/dilin993/IRS_Aided_Vehicular_Communications)|Dilin Dampahalage, etal.|
 |51|[Electromagnetic Model of Reflective Intelligent Surfaces](https://github.com/MicheleBorgese/Intelligent-Surfaces)|Filippo Costa, etal.|
-|52|[Reconfigurable intelligent surface enabled federated learning: A unified communication-learning design approach](https://github.com/liuhang1994/RIS-FL)|Hang Liu, etal.|
+|52|[TBD](TBD)|TBD, etal.|
+
+
+
+
