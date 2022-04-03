@@ -65,7 +65,8 @@
 |49|[IEEE Signal Processing Cup 2021](https://github.com/emilbjornson/SP_Cup_2021)|Emil Björnson, etal.|
 |50|[Intelligent Reflecting Surface Aided Vehicular Communications](https://github.com/dilin993/IRS_Aided_Vehicular_Communications)|Dilin Dampahalage, etal.|
 |51|[Electromagnetic Model of Reflective Intelligent Surfaces](https://github.com/MicheleBorgese/Intelligent-Surfaces)|Filippo Costa, etal.|
-|52|[TBD](TBD)|TBD, etal.|
+|52|[Channel estimation for reconfigurable intelligent surfaces with enhanced deep residual networks](https://github.com/BJTU-MIMO/RIS_Channel_estimation_EDSR_MDSR)|Y. Jin, etal.|
+|53|[TBD](TBD)|TBD, etal.|
 
 
 
