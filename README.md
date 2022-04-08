@@ -67,7 +67,6 @@
 |51|[Electromagnetic Model of Reflective Intelligent Surfaces](https://github.com/MicheleBorgese/Intelligent-Surfaces)|Filippo Costa, etal.|
 |52|[Channel estimation for reconfigurable intelligent surfaces with enhanced deep residual networks](https://github.com/BJTU-MIMO/RIS_Channel_estimation_EDSR_MDSR)|Y. Jin, etal.|
 |53|[Intelligent Reflecting Surface Configuration With Historical Channel Observations](https://github.com/guohuayan/IRS_opt_statistical_CSI)|H Guo, etal.|
-
 |54|[TBD](TBD)|TBD, etal.|
 
 
