@@ -14,6 +14,8 @@
 
 * Some uncompleted/inferior-quality works would be removed from the list.
 
+* Please star this collection if it is helpful to you. 
+
 |No.| Paper Title | Authors | 
 | ------ | ------ | ------ |
 |1| [Intelligent Reflecting Surface Operation under Predictable Receiver Mobility: A Continuous Time Propagation Model](https://github.com/bmatthiesen/IRS-continuous) | Bho Matthiesen, etal. | 
