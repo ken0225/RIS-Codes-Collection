@@ -71,6 +71,6 @@
 |53|[Intelligent Reflecting Surface Configuration With Historical Channel Observations](https://github.com/guohuayan/IRS_opt_statistical_CSI)|H Guo, etal.|
 |54|[Cascaded Channel Estimation for Intelligent Reflecting Surface Assisted Multiuser MISO Systems](https://github.com/guohuayan/IRS_channel_estimation)|H Guo, etal.|
 |55|[Active RIS vs. Passive RIS: Which Will Prevail in 6G?](https://github.com/Brook1711/RIS_components)|Brook1711(reproduction work).|
-
+|56|[Capacity enhancement for irregular reconfigurable intelligent surface-aided wireless communications](http://oa.ee.tsinghua.edu.cn/dailinglong/publications/code/Capacity%20Enhancement%20for%20Irregular%20Reconfigurable%20Intelligent%20Surface-Aided%20Wireless%20Communications.zip))|Linglong Dai, etal.|
 
 
