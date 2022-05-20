@@ -14,7 +14,7 @@
 
 * Some uncompleted/inferior-quality works would be removed from the list.
 
-* Please **star** this collection if it is helpful to you. 
+* Please **STAR** this collection if it is helpful to you. 
 
 |No.| Paper Title | Authors | 
 | ------ | ------ | ------ |
