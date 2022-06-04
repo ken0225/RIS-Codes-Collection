@@ -73,4 +73,5 @@
 |55|[Active RIS vs. Passive RIS: Which Will Prevail in 6G?](https://github.com/Brook1711/RIS_components)|Brook1711(reproduction work).|
 |56|[Capacity enhancement for irregular reconfigurable intelligent surface-aided wireless communications](http://oa.ee.tsinghua.edu.cn/dailinglong/publications/code/Capacity%20Enhancement%20for%20Irregular%20Reconfigurable%20Intelligent%20Surface-Aided%20Wireless%20Communications.zip)|Linglong Dai, etal.|
 |57|[Reconfigurable Intelligent Surface Assisted Multiuser MISO Systems Exploiting Deep Reinforcement Learning](https://github.com/baturaysaglam/RIS-MISO-Deep-Reinforcement-Learning)|baturaysaglam(reproduction work).|
+|58|[Performance Analysis of RIS-Aided Systems With Practical Phase Shift and Amplitude Response](https://github.com/BJTU-MIMO/RIS_Practical|baturaysaglam(Yan Zhang, etal.|
 
