@@ -8,7 +8,7 @@
 
 * Some authorizations by authors can be found [here](https://github.com/bmatthiesen/IRS-continuous/issues/1) and [here](https://github.com/emilbjornson/IRS-relaying/issues/1).
 
-* We have WeChat group for RIS(IRS). If you want to join, please send an email to ke.wang@ipm.edu.mo. 
+* We have WeChat group for RIS(IRS). If you want to join, please send an email to ke.wang@mpu.edu.mo. 
 
 * In the email, please state 1) your real NAME, 2) your UNIVERSITY, and 3) your GRADE (e.g., first-year master's student). Note that the information above is a must due to some reasons. 
 
