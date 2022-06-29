@@ -75,4 +75,5 @@
 |57|[Reconfigurable Intelligent Surface Assisted Multiuser MISO Systems Exploiting Deep Reinforcement Learning](https://github.com/baturaysaglam/RIS-MISO-Deep-Reinforcement-Learning)|baturaysaglam(reproduction work).|
 |58|[Performance Analysis of RIS-Aided Systems With Practical Phase Shift and Amplitude Response](https://github.com/BJTU-MIMO/RIS_Practical)|Yan Zhang, etal.|
 |59|[An-Overview-of-Signal-Processing-Techniques-for-RIS-IRS-aided-Wireless-Systems](https://github.com/wkz20042008/An-Overview-of-Signal-Processing-Techniques-for-RIS-IRS-aided-Wireless-Systems)|Cunhua Pan, etal.|
+|60|[End-to-end learning for RIS-aided communication systems](http://oa.ee.tsinghua.edu.cn/dailinglong/publications/code/End-to-End%20Learning%20for%20RIS-Aided%20Communication%20Systems.zip)|Linglong Dai, etal.|
 
