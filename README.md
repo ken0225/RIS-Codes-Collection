@@ -76,4 +76,5 @@
 |58|[Performance Analysis of RIS-Aided Systems With Practical Phase Shift and Amplitude Response](https://github.com/BJTU-MIMO/RIS_Practical)|Yan Zhang, etal.|
 |59|[An-Overview-of-Signal-Processing-Techniques-for-RIS-IRS-aided-Wireless-Systems](https://github.com/wkz20042008/An-Overview-of-Signal-Processing-Techniques-for-RIS-IRS-aided-Wireless-Systems)|Cunhua Pan, etal.|
 |60|[End-to-end learning for RIS-aided communication systems](http://oa.ee.tsinghua.edu.cn/dailinglong/publications/code/End-to-End%20Learning%20for%20RIS-Aided%20Communication%20Systems.zip)|Linglong Dai, etal.|
+|61|[Positioning Information Based High-Speed Communications with Multiple RISs: Doppler Mitigation and Hardware Impairments](https://github.com/ken0225/Multi-RIS-Doppler-Mitigation-Hardware-Impairments)|Ke WANG, etal.|
 
