@@ -72,7 +72,7 @@
 |54|[Cascaded Channel Estimation for Intelligent Reflecting Surface Assisted Multiuser MISO Systems](https://github.com/guohuayan/IRS_channel_estimation)|H Guo, etal.|
 |55|[Active RIS vs. Passive RIS: Which Will Prevail in 6G?](https://github.com/Brook1711/RIS_components)|Brook1711(reproduction work).|
 |56|[Capacity enhancement for irregular reconfigurable intelligent surface-aided wireless communications](http://oa.ee.tsinghua.edu.cn/dailinglong/publications/code/Capacity%20Enhancement%20for%20Irregular%20Reconfigurable%20Intelligent%20Surface-Aided%20Wireless%20Communications.zip)|Linglong Dai, etal.|
-|57|[Reconfigurable Intelligent Surface Assisted Multiuser MISO Systems Exploiting Deep Reinforcement Learning](https://github.com/baturaysaglam/RIS-MISO-Deep-Reinforcement-Learning)|baturaysaglam(reproduction work).|
+|57|[Reconfigurable Intelligent Surface Assisted Multiuser MISO Systems Exploiting Deep Reinforcement Learning](https://github.com/baturaysaglam/RIS-MISO-Deep-Reinforcement-Learning)|Baturay Saglam(reproduction work).|
 |58|[Performance Analysis of RIS-Aided Systems With Practical Phase Shift and Amplitude Response](https://github.com/BJTU-MIMO/RIS_Practical)|Yan Zhang, etal.|
 |59|[An-Overview-of-Signal-Processing-Techniques-for-RIS-IRS-aided-Wireless-Systems](https://github.com/wkz20042008/An-Overview-of-Signal-Processing-Techniques-for-RIS-IRS-aided-Wireless-Systems)|Cunhua Pan, etal.|
 |60|[End-to-end learning for RIS-aided communication systems](http://oa.ee.tsinghua.edu.cn/dailinglong/publications/code/End-to-End%20Learning%20for%20RIS-Aided%20Communication%20Systems.zip)|Linglong Dai, etal.|
@@ -80,7 +80,7 @@
 |62|[Codebook design and beam training for extremely large-scale RIS: Far-field or near-field?](http://oa.ee.tsinghua.edu.cn/dailinglong/publications/code/Codebook%20design%20and%20beam%20training%20for%20extremely%20large-scale%20RIS%20Far-field%20or%20near-field.txt)|Linglong Dai, etal.|
 |63|[Distributed machine learning based downlink channel estimation for RIS assisted wireless communications](http://oa.ee.tsinghua.edu.cn/dailinglong/publications/code/Distributed%20machine%20learning%20based%20downlink%20channel%20estimation%20for%20RIS%20assisted%20wireless%20communications.zip)|Linglong Dai, etal.|
 |64|[Uplink Cascaded Channel Estimation for Intelligent Reflecting Surface Assisted Multiuser MISO Systems](https://github.com/guohuayan/IRS_Channel_Estimation)|Guo, etal.|
-|65|[Reconfigurable Intelligent Surface Assisted Multiuser MISO Systems Exploiting Deep Reinforcement Learning](https://github.com/baturaysaglam/RIS-MISO-Deep-Reinforcement-Learning)|Baturay Saglam(reproduction work).|
+|65|[Intelligent Reflecting Surface-Assisted MU-MISO Systems With Imperfect Hardware: Channel Estimation and Beamforming Design]([https://github.com/baturaysaglam/RIS-MISO-Deep-Reinforcement-Learning](https://github.com/baturaysaglam/RIS-MISO-PDA-Deep-Reinforcement-Learning))|Baturay Saglam(reproduction work).|
 
 
 
