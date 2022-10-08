@@ -80,7 +80,7 @@
 |62|[Codebook design and beam training for extremely large-scale RIS: Far-field or near-field?](http://oa.ee.tsinghua.edu.cn/dailinglong/publications/code/Codebook%20design%20and%20beam%20training%20for%20extremely%20large-scale%20RIS%20Far-field%20or%20near-field.txt)|Linglong Dai, etal.|
 |63|[Distributed machine learning based downlink channel estimation for RIS assisted wireless communications](http://oa.ee.tsinghua.edu.cn/dailinglong/publications/code/Distributed%20machine%20learning%20based%20downlink%20channel%20estimation%20for%20RIS%20assisted%20wireless%20communications.zip)|Linglong Dai, etal.|
 |64|[Uplink Cascaded Channel Estimation for Intelligent Reflecting Surface Assisted Multiuser MISO Systems](https://github.com/guohuayan/IRS_Channel_Estimation)|Guo, etal.|
-|65|[Intelligent Reflecting Surface-Assisted MU-MISO Systems With Imperfect Hardware: Channel Estimation and Beamforming Design]([https://github.com/baturaysaglam/RIS-MISO-Deep-Reinforcement-Learning](https://github.com/baturaysaglam/RIS-MISO-PDA-Deep-Reinforcement-Learning)|Baturay Saglam(reproduction work).|
+|65|[Intelligent Reflecting Surface-Assisted MU-MISO Systems With Imperfect Hardware: Channel Estimation and Beamforming Design](https://github.com/baturaysaglam/RIS-MISO-PDA-Deep-Reinforcement-Learning)|Baturay Saglam(reproduction work).|
 
 
 
