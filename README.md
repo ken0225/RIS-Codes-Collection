@@ -34,7 +34,7 @@
 |16|[A Framework of Robust Transmission Design for IRS-Aided MISO Communications With Imperfect Cascaded Channels](https://github.com/ken0225/Framework-of-Robust-Transmission-Design-for-IRS-Aided-MISO-Communications)|G. Zhou, C. Pan， etal.|
 |17|[SISO RIS-Enabled Joint 3D Downlink Localization and Synchronization](https://github.com/KamranKeykhosravi/RIS-Enabled-SISO-Localization)|Kamran Keykhosravi, etal.|
 |18|[Near-field Localization with a Reconfigurable Intelligent Surface Acting as Lens](https://github.com/henkwymeersch/RISLensLocalization)|Zohair Abu-Shaban, etal.|
-|19|[Channel Estimation for RIS Assisted Wireless Communications: Part II - An Improved Solution Based on Double-Structured Sparsity](http://oa.ee.tsinghua.edu.cn/dailinglong/publications/code/Channel%20estimation%20for%20RIS%20assisted%20wireless%20communications.zip)| Linglong Dai, etal.|
+|19|[Channel Estimation for RIS Assisted Wireless Communications: Part II - An Improved Solution Based on Double-Structured Sparsity](http://oa.ee.tsinghua.edu.cn/dailinglong/publications/publications.html)| Linglong Dai, etal.|
 |20|[Passive Beamforming and Information Transfer Design for Reconfigurable Intelligent Surfaces Aided Multiuser MIMO Systems](https://github.com/Yuan-Xiaojun/MIMO_SingleRIS)|W. Yan, etal.|
 |21|[Passive Beamforming and Information Transfer via Large Intelligent Surface](https://github.com/Yuan-Xiaojun/Matlab_SIMO)|W. Yan, etal.|
 |22|[Deep Channel Learning For Large Intelligent Surfaces Aided mm-Wave Massive MIMO Systems](https://github.com/meuseabe/deepChannelLearning4RIS)|A. M. Elbir, etal.|
@@ -49,17 +49,17 @@
 |31|[Reconfigurable intelligent surface enabled federated learning: A unified communication-learning design approach](https://github.com/liuhang1994/RIS-FL)|Hang Liu, etal.|
 |32|[Channel Estimation for Reconfigurable Intelligent Surface Aided Multi-User mmWave MIMO Systems](https://github.com/jayJieChen/ChannelEstimation-RIS-MUmmWAVe-MIMO-Systems)|Jiajie Chen, etal.|
 |33|[Reconfigurable Intelligent Surface for Enhanced Communication Techniques](https://github.com/saarthaksm29/Reconfigurable-Intelligent-Surface)|saarthaksm29|
-|34|[Two-Timescale Channel Estimation for Reconfigurable Intelligent Surface Aided Wireless Communications](http://oa.ee.tsinghua.edu.cn/dailinglong/publications/code/Two-timescale%20channel%20estimation%20for%20reconfigurable%20intelligent%20surface%20aided%20wireless%20communications.zip)|Chen Hu, etal.|
-|35|[A joint precoding framework for wideband reconfigurable intelligent surface-aided cell-free network](http://oa.ee.tsinghua.edu.cn/dailinglong/publications/code/A%20joint%20precoding%20framework%20for%20wideband%20reconfigurable%20intelligent%20surface-aided%20cell-free%20network.zip)|Z. Zhang, etal.|
+|34|[Two-Timescale Channel Estimation for Reconfigurable Intelligent Surface Aided Wireless Communications](http://oa.ee.tsinghua.edu.cn/dailinglong/publications/publications.html)|Chen Hu, etal.|
+|35|[A joint precoding framework for wideband reconfigurable intelligent surface-aided cell-free network](http://oa.ee.tsinghua.edu.cn/dailinglong/publications/publications.html)|Z. Zhang, etal.|
 |36|[Multiple Antenna Selection and Successive Signal Detection for SM-Based IRS-Aided Communication](https://github.com/hasanabs/MAS_SSD)|H. Albinsaid, etal|
 |37|[RISs for Doppler Effect and Multipath Fading Mitigation](https://corelab.ku.edu.tr/wp-content/uploads/2019/12/Doppler-RISs.zip)|E. Basar, etal.|
-|38|[Dimension reduced channel feedback for reconfigurable intelligent surface aided wireless communications](http://oa.ee.tsinghua.edu.cn/dailinglong/publications/code/Dimension%20reduced%20channel%20feedback%20for%20reconfigurable%20intelligent%20surface%20aided%20wireless%20communications.zip)|Linglong Dai, etal.|
+|38|[Dimension reduced channel feedback for reconfigurable intelligent surface aided wireless communications](http://oa.ee.tsinghua.edu.cn/dailinglong/publications/publications.html)|Linglong Dai, etal.|
 |39|[Learning to Reflect and to Beamform for Intelligent Reflecting Surface with Implicit Channel Estimation](https://github.com/taojiang-github/GNN-IRS-Beamforming-Reflection)|Tao Jiang, etal.|
 |40|[A Primer on Near-Field Beamforming for Arrays and Reconfigurable Intelligent Surfaces](https://github.com/emilbjornson/nearfield-primer)|Emil Björnson, etal.|
 |41|[Convolutional Autoencoder-Based Phase Shift Feedback Compression for Intelligent Reflecting Surface-Assisted Wireless Systems](https://github.com/xian-hua/PSCDN)|X. Yu, etal.|
-|42|[Channel estimation for extremely large-scale massive MIMO far-field near-field or hybrid-field?](http://oa.ee.tsinghua.edu.cn/dailinglong/publications/code/Channel%20estimation%20for%20extremely%20large-scale%20massive%20MIMO%20far-field%20near-field%20or%20hybrid-field.zip)|Linglong Dai, etal.|
-|43|[Active reconfigurable intelligent surface: Fully-connected or sub-connected?](http://oa.ee.tsinghua.edu.cn/dailinglong/publications/code/Active%20reconfigurable%20intelligent%20surface%20fully-connected%20or%20sub-connected.zip)|Linglong Dai, etal.|
-|44|[Compact user-specific reconfigurable intelligent surfaces for uplink transmission](http://oa.ee.tsinghua.edu.cn/dailinglong/publications/code/Compact%20user-specific%20reconfigurable%20intelligent%20surfaces%20for%20uplink%20transmission.zip)|Linglong Dai, etal.|
+|42|[Channel estimation for extremely large-scale massive MIMO far-field near-field or hybrid-field?](http://oa.ee.tsinghua.edu.cn/dailinglong/publications/publications.html)|Linglong Dai, etal.|
+|43|[Active reconfigurable intelligent surface: Fully-connected or sub-connected?](http://oa.ee.tsinghua.edu.cn/dailinglong/publications/publications.html)|Linglong Dai, etal.|
+|44|[Compact user-specific reconfigurable intelligent surfaces for uplink transmission](http://oa.ee.tsinghua.edu.cn/dailinglong/publications/publications.html)|Linglong Dai, etal.|
 |45|[IRS-Aided SWIPT: Joint Waveform, Active and Passive Beamforming Design Under Nonlinear Harvester Model](https://github.com/SnowzTail/irs-aided-swipt-joint-waveform-active-and-passive-beamforming-design-under-nonlinear-harvester-model/tree/master/src)|Yang Zhao, etal.|
 |46|[Reconfigurable Intelligent Surfaces: Tradeoff between Unit-Cell- and Surface-Level Design under Quantifiable Benchmarks](https://ieee-dataport.org/documents/reconfigurable-intelligent-surfaceris-benchmarking-results-and-simulation-code#comment-form)|Ammarrafique, etal.|
 |47|[Secure Wireless Communication in RIS-Aided MISO System With Hardware Impairments](https://github.com/ZhouGuiGuiGui/Secure-Wireless-Communication-in-RIS-Aided-MISO-System-With-Hardware-Impairments)|Gui Zhou, etal.|
@@ -71,14 +71,14 @@
 |53|[Intelligent Reflecting Surface Configuration With Historical Channel Observations](https://github.com/guohuayan/IRS_opt_statistical_CSI)|H Guo, etal.|
 |54|[Cascaded Channel Estimation for Intelligent Reflecting Surface Assisted Multiuser MISO Systems](https://github.com/guohuayan/IRS_channel_estimation)|H Guo, etal.|
 |55|[Active RIS vs. Passive RIS: Which Will Prevail in 6G?](https://github.com/Brook1711/RIS_components)|Brook1711(reproduction work).|
-|56|[Capacity enhancement for irregular reconfigurable intelligent surface-aided wireless communications](http://oa.ee.tsinghua.edu.cn/dailinglong/publications/code/Capacity%20Enhancement%20for%20Irregular%20Reconfigurable%20Intelligent%20Surface-Aided%20Wireless%20Communications.zip)|Linglong Dai, etal.|
+|56|[Capacity enhancement for irregular reconfigurable intelligent surface-aided wireless communications](http://oa.ee.tsinghua.edu.cn/dailinglong/publications/publications.html)|Linglong Dai, etal.|
 |57|[Reconfigurable Intelligent Surface Assisted Multiuser MISO Systems Exploiting Deep Reinforcement Learning](https://github.com/baturaysaglam/RIS-MISO-Deep-Reinforcement-Learning)|Baturay Saglam(reproduction work).|
 |58|[Performance Analysis of RIS-Aided Systems With Practical Phase Shift and Amplitude Response](https://github.com/BJTU-MIMO/RIS_Practical)|Yan Zhang, etal.|
 |59|[An-Overview-of-Signal-Processing-Techniques-for-RIS-IRS-aided-Wireless-Systems](https://github.com/wkz20042008/An-Overview-of-Signal-Processing-Techniques-for-RIS-IRS-aided-Wireless-Systems)|Cunhua Pan, etal.|
-|60|[End-to-end learning for RIS-aided communication systems](http://oa.ee.tsinghua.edu.cn/dailinglong/publications/code/End-to-End%20Learning%20for%20RIS-Aided%20Communication%20Systems.zip)|Linglong Dai, etal.|
+|60|[End-to-end learning for RIS-aided communication systems](http://oa.ee.tsinghua.edu.cn/dailinglong/publications/publications.html)|Linglong Dai, etal.|
 |61|[Positioning Information Based High-Speed Communications with Multiple RISs: Doppler Mitigation and Hardware Impairments](https://github.com/ken0225/Multi-RIS-Doppler-Mitigation-Hardware-Impairments)|Ke WANG, etal.|
-|62|[Codebook design and beam training for extremely large-scale RIS: Far-field or near-field?](http://oa.ee.tsinghua.edu.cn/dailinglong/publications/code/Codebook%20design%20and%20beam%20training%20for%20extremely%20large-scale%20RIS%20Far-field%20or%20near-field.txt)|Linglong Dai, etal.|
-|63|[Distributed machine learning based downlink channel estimation for RIS assisted wireless communications](http://oa.ee.tsinghua.edu.cn/dailinglong/publications/code/Distributed%20machine%20learning%20based%20downlink%20channel%20estimation%20for%20RIS%20assisted%20wireless%20communications.zip)|Linglong Dai, etal.|
+|62|[Codebook design and beam training for extremely large-scale RIS: Far-field or near-field?](http://oa.ee.tsinghua.edu.cn/dailinglong/publications/publications.html)|Linglong Dai, etal.|
+|63|[Distributed machine learning based downlink channel estimation for RIS assisted wireless communications](http://oa.ee.tsinghua.edu.cn/dailinglong/publications/publications.html)|Linglong Dai, etal.|
 |64|[Uplink Cascaded Channel Estimation for Intelligent Reflecting Surface Assisted Multiuser MISO Systems](https://github.com/guohuayan/IRS_Channel_Estimation)|Guo, etal.|
 |65|[Deep Reinforcement Learning Based Joint Downlink Beamforming and RIS Configuration in RIS-aided MU-MISO Systems Under Hardware Impairments and Imperfect CSI](https://github.com/baturaysaglam/RIS-MISO-PDA-Deep-Reinforcement-Learning)|Baturay Saglam(reproduction work).|
 
