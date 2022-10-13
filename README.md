@@ -76,7 +76,7 @@
 |58|[Performance Analysis of RIS-Aided Systems With Practical Phase Shift and Amplitude Response](https://github.com/BJTU-MIMO/RIS_Practical)|Yan Zhang, etal.|
 |59|[An-Overview-of-Signal-Processing-Techniques-for-RIS-IRS-aided-Wireless-Systems](https://github.com/wkz20042008/An-Overview-of-Signal-Processing-Techniques-for-RIS-IRS-aided-Wireless-Systems)|Cunhua Pan, etal.|
 |60|[End-to-end learning for RIS-aided communication systems](http://oa.ee.tsinghua.edu.cn/dailinglong/publications/publications.html)|Linglong Dai, etal.|
-|61|[Positioning Information Based High-Speed Communications with Multiple RISs: Doppler Mitigation and Hardware Impairments](https://github.com/ken0225/Multi-RIS-Doppler-Mitigation-Hardware-Impairments)|Ke WANG, etal.|
+|61|[Positioning Information Based High-Speed Communications with Multiple RISs: Doppler Mitigation and Hardware Impairments](https://github.com/ken0225/Multi-RIS-Doppler-Mitigation-Hardware-Impairments)|K. Wang, etal.|
 |62|[Codebook design and beam training for extremely large-scale RIS: Far-field or near-field?](http://oa.ee.tsinghua.edu.cn/dailinglong/publications/publications.html)|Linglong Dai, etal.|
 |63|[Distributed machine learning based downlink channel estimation for RIS assisted wireless communications](http://oa.ee.tsinghua.edu.cn/dailinglong/publications/publications.html)|Linglong Dai, etal.|
 |64|[Uplink Cascaded Channel Estimation for Intelligent Reflecting Surface Assisted Multiuser MISO Systems](https://github.com/guohuayan/IRS_Channel_Estimation)|Guo, etal.|
