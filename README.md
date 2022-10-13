@@ -84,6 +84,6 @@
 |66|[On the Secrecy Rate under Statistical QoS Provisioning for RIS-assisted MISO Wiretap Channel](https://github.com/vkumar-ucd/EffectiveSecrecyRate)|V. Kumar, etal.|
 |67|[Achievable Rate Maximization for Underlay Spectrum Sharing MIMO System with Intelligent Reflecting Surface](https://github.com/vkumar-ucd/IRS_MIMO_UnderlaySpectrumSharing)|V. Kumar, etal.|
 |68|[Artificial Fast Fading from Reconfigurable Surfaces Enables Ultra-Reliable Communications](https://github.com/klb2/ris-phase-hopping)|Eduard Jorswieck, etal.|
-
+|69|[Achievable Rate Optimization for MIMO Systems with Reconfigurable Intelligent Surfaces](https://github.com/tranlenam/RateMaxMIMORIS))|Nemanja Stefan Perović, etal.|
 
 
