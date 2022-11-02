@@ -83,5 +83,5 @@
 |69|[Achievable Rate Optimization for MIMO Systems with Reconfigurable Intelligent Surfaces](https://github.com/tranlenam/RateMaxMIMORIS)|Nemanja Stefan Perović, etal.|
 |70|[Channel Characterization for RIS-aided Terahertz Communications: A Stochastic Approach](https://github.com/thanhluannguyen/THz-RIS-Stochastic)|Thanh Luan Nguyen, etal.|
 |71|[Intelligent Reflecting Surface Configurations for Smart Radio Using Deep Reinforcement Learning](https://github.com/WeiWang-WYS/IRSconfigurationDRL)|Wei Wang, etal.|
-
+|72|[STAR-RIS](https://github.com/STAR-Yuanwei-Liu/Performance-analysis-for-wireless-communications)|Yuanwei Liu, etal.|
 
