@@ -85,4 +85,5 @@
 |71|[Intelligent Reflecting Surface Configurations for Smart Radio Using Deep Reinforcement Learning](https://github.com/WeiWang-WYS/IRSconfigurationDRL)|Wei Wang, etal.|
 |72|[STAR-RIS](https://github.com/STAR-Yuanwei-Liu/Performance-analysis-for-wireless-communications)|Yuanwei Liu, etal.|
 |73|[6G Simulation Platform: From the Physical-layer to Networking with RIS](https://github.com/alexpapad95/6G-simulation-platform)|Alexandros Papadopoulos, etal.|
+|74|[RIS-Aided 6G Communication System With Accurate Traceable User Mobility](https://github.com/Jumper1-rgb/RIS_Beam_tracking_EKF)|P. Zhang, etal.|
 
