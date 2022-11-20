@@ -87,5 +87,6 @@
 |73|[6G Simulation Platform: From the Physical-layer to Networking with RIS](https://github.com/alexpapad95/6G-simulation-platform)|Alexandros Papadopoulos, etal.|
 |74|[RIS-Aided 6G Communication System With Accurate Traceable User Mobility](https://github.com/Jumper1-rgb/RIS_Beam_tracking_EKF)|P. Zhang, etal.|
 |75|[Optimal Discrete Beamforming of Reconfigurable Intelligent Surface](https://github.com/RujingXiong/RIS_Optimization)|Rujing Xiong,, etal.|
-|76|[Channel Estimation for Reconfigurable Intelligent Surface Assisted High-Mobility Wireless Systems](https://github.com/cx1g08)|Xu C,, etal.|
+|76|[Channel Estimation for Reconfigurable Intelligent Surface Assisted High-Mobility Wireless Systems](https://github.com/cx1g08)|Xu C, etal.|
+|77|[3D-Trajectory and Phase-Shift Design for RIS-Assisted UAV Systems Using Deep Reinforcement Learning](https://github.com/HaiboMei/UAV-RIS-DRL)|Mei H, etal.|
 
