@@ -2,7 +2,7 @@
 
 # RIS(IRS)-Codes-Collection: A Collection Contains the Codes for RIS(IRS) Papers.
 
-<p align="center">[Latest Update, 21 Nov. 2022] No.78 & No.79</p>
+<p align="center">[Latest Update, 21/Nov./2022] No.78 & No.79</p>
 
 * If you find new code for RIS(IRS) paper, please remind me [here](https://github.com/ken0225/RIS_Codes_Collection/issues). 
 
