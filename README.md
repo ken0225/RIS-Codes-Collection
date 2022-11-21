@@ -2,6 +2,8 @@
 
 # RIS(IRS)-Codes-Collection: A Collection Contains the Codes for RIS(IRS) Papers.
 
+## [Latest Update, 21 Nov. 2022] 78,79
+
 * If you find new code for RIS(IRS) paper, please remind me [here](https://github.com/ken0225/RIS_Codes_Collection/issues). 
 
 * Best reading paper in RIS(IRS) is [here](https://www.comsoc.org/publications/best-readings/reconfigurable-intelligent-surfaces).
