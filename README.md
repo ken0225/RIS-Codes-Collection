@@ -93,3 +93,4 @@
 |77|[3D-Trajectory and Phase-Shift Design for RIS-Assisted UAV Systems Using Deep Reinforcement Learning](https://github.com/HaiboMei/UAV-RIS-DRL)|Mei H, etal.|
 |78|[Deep Reinforcement Learning Based Joint Downlink Beamforming and RIS Configuration in RIS-aided MU-MISO Systems Under Hardware Impairments and Imperfect CSI](https://github.com/baturaysaglam/ris-miso-pda-deep-reinforcement-learning)|Baturay Saglam, etal.|
 |79|[Efficient URLLC with a Reconfigurable Intelligent Surface and Imperfect Device Tracking](https://github.com/aau-cnt/efficient-ris-aided-urllc)|Fabio Saggese, etal.|
+|80|[Millimeter Wave Communications With RIS performance analysis and optimization](https://github.com/BJTU-MIMO/mmWave_RIS_Performance_Optimization)|Hongyang Du, etal.|
