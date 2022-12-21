@@ -2,7 +2,7 @@
 
 # RIS(IRS)-Codes-Collection: A Collection Contains the Codes for RIS(IRS) Papers.
 
-## [Latest Update, 21/Nov./2022] No.78 & No.79 & No.80.
+## [Latest Update, 21/Dec./2022] No.81.
 
 * If you find new code for RIS(IRS) paper, please remind me [here](https://github.com/ken0225/RIS_Codes_Collection/issues). 
 
@@ -94,7 +94,7 @@
 |78|[Deep Reinforcement Learning Based Joint Downlink Beamforming and RIS Configuration in RIS-aided MU-MISO Systems Under Hardware Impairments and Imperfect CSI](https://github.com/baturaysaglam/ris-miso-pda-deep-reinforcement-learning)|Baturay Saglam, etal.|
 |79|[Efficient URLLC with a Reconfigurable Intelligent Surface and Imperfect Device Tracking](https://github.com/aau-cnt/efficient-ris-aided-urllc)|Fabio Saggese, etal.|
 |80|[Millimeter Wave Communications With RIS performance analysis and optimization](https://github.com/BJTU-MIMO/mmWave_RIS_Performance_Optimization)|Hongyang Du, etal.|
-|81|[RIS-Assisted High-Speed Communications with Time-Varying Distance-Dependent Rician Channels](https://github.com/ken0225/RIS-Distance-Dependent-Rician-Channels)|Ke Wang, etal.|
+|81|[RIS-Assisted High-Speed Communications with Time-Varying Distance-Dependent Rician Channels](https://github.com/ken0225/RIS-Distance-Dependent-Rician-Channels)|K. Wang, etal.|
 
 
 
