@@ -94,3 +94,9 @@
 |78|[Deep Reinforcement Learning Based Joint Downlink Beamforming and RIS Configuration in RIS-aided MU-MISO Systems Under Hardware Impairments and Imperfect CSI](https://github.com/baturaysaglam/ris-miso-pda-deep-reinforcement-learning)|Baturay Saglam, etal.|
 |79|[Efficient URLLC with a Reconfigurable Intelligent Surface and Imperfect Device Tracking](https://github.com/aau-cnt/efficient-ris-aided-urllc)|Fabio Saggese, etal.|
 |80|[Millimeter Wave Communications With RIS performance analysis and optimization](https://github.com/BJTU-MIMO/mmWave_RIS_Performance_Optimization)|Hongyang Du, etal.|
+|81|[RIS-Assisted High-Speed Communications with Time-Varying Distance-Dependent Rician Channels](https://github.com/ken0225/RIS-Distance-Dependent-Rician-Channels)|Ke Wang, etal.|
+
+
+
+
+
