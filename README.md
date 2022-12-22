@@ -2,7 +2,7 @@
 
 # RIS(IRS)-Codes-Collection: A Collection Contains the Codes for RIS(IRS) Papers.
 
-## [Latest Update, 21/Dec./2022] No.81.
+## [Latest Update, 22/Dec./2022] No.81 & No.82.
 
 * If you find new code for RIS(IRS) paper, please remind me [here](https://github.com/ken0225/RIS_Codes_Collection/issues). 
 
@@ -95,7 +95,7 @@
 |79|[Efficient URLLC with a Reconfigurable Intelligent Surface and Imperfect Device Tracking](https://github.com/aau-cnt/efficient-ris-aided-urllc)|Fabio Saggese, etal.|
 |80|[Millimeter Wave Communications With RIS performance analysis and optimization](https://github.com/BJTU-MIMO/mmWave_RIS_Performance_Optimization)|Hongyang Du, etal.|
 |81|[RIS-Assisted High-Speed Communications with Time-Varying Distance-Dependent Rician Channels](https://github.com/ken0225/RIS-Distance-Dependent-Rician-Channels)|K. Wang, etal.|
-
+|82|[On Hardware Aging for Practical RIS-Assisted Communication Systems](https://github.com/ken0225/Practical-RIS-Hardware-Aging)|K. Wang, etal.|
 
 
 
