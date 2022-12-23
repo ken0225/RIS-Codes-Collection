@@ -14,7 +14,7 @@
 
 * Please **STAR** this collection if it is helpful to you. 
 
-* My latest research work： [K. Wang, C. -T. Lam and B. K. Ng, "On Hardware Aging for Practical RIS-Assisted Communication Systems," in Electronics Letters, to appear.](https://github.com/ken0225/Practical-RIS-Hardware-Aging)
+* My latest research work: [K. Wang, C. -T. Lam and B. K. Ng, "On Hardware Aging for Practical RIS-Assisted Communication Systems," in Electronics Letters, to appear.](https://github.com/ken0225/Practical-RIS-Hardware-Aging)
 
 |No.| Paper Title | Authors | 
 | ------ | ------ | ------ |
