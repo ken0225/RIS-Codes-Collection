@@ -98,7 +98,7 @@
 |80|[Millimeter Wave Communications With RIS performance analysis and optimization](https://github.com/BJTU-MIMO/mmWave_RIS_Performance_Optimization)|Hongyang Du, etal.|
 |81|[RIS-Assisted High-Speed Communications with Time-Varying Distance-Dependent Rician Channels](https://github.com/ken0225/RIS-Distance-Dependent-Rician-Channels)|K. Wang, etal.|
 |82|[On Hardware Aging for Practical RIS-Assisted Communication Systems](https://github.com/ken0225/Practical-RIS-Hardware-Aging)|K. Wang, etal.|
-
+|83|[Learning to Estimate RIS-Aided mmWave Channels](https://github.com/jiguanghe/RISCE)|He, Jiguang, etal.|
 
 
 
