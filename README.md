@@ -10,8 +10,6 @@
 
 * Some authorizations by authors can be found [here](https://github.com/bmatthiesen/IRS-continuous/issues/1) and [here](https://github.com/emilbjornson/IRS-relaying/issues/1).
 
-* Some uncompleted/inferior-quality works would be removed from the list.
-
 * Please **STAR** this collection if it is helpful to you. 
 
 * My latest research work: [K. Wang, C. -T. Lam and B. K. Ng, "On Hardware Aging for Practical RIS-Assisted Communication Systems," in Electronics Letters, to appear.](https://github.com/ken0225/Practical-RIS-Hardware-Aging)
