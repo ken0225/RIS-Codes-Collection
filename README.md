@@ -2,7 +2,7 @@
 
 # RIS(IRS)-Codes-Collection: A Collection Contains the Codes for RIS(IRS) Papers.
 
-## [Latest Update, 1/Jan./2023] No.84.
+## [Latest Update, 6/Jan./2023] No.85.
 
 * If you find new code for RIS(IRS) paper, please remind me [here](https://github.com/ken0225/RIS_Codes_Collection/issues). 
 
@@ -98,5 +98,5 @@
 |82|[On Hardware Aging for Practical RIS-Assisted Communication Systems](https://github.com/ken0225/Practical-RIS-Hardware-Aging)|K. Wang, etal.|
 |83|[Learning to Estimate RIS-Aided mmWave Channels](https://github.com/jiguanghe/RISCE)|He, Jiguang, etal.|
 |84|[A RIS-Based Passive DOA Estimation Method for Integrated Sensing and Communication System](https://github.com/chenpengseu/PassiveDOA-ISAC-RIS)|Chen, Z, etal.|
-
+|85|[Hybrid Relay-Reflecting Intelligent Surface-Assisted Wireless Communication](https://github.com/xiaogaogaoxiao/Hybrid-Relay-RIS)|Nhan Thanh Nguyen, etal.|
 
