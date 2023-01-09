@@ -99,6 +99,6 @@
 |83|[Learning to Estimate RIS-Aided mmWave Channels](https://github.com/jiguanghe/RISCE)|He, Jiguang, etal.|
 |84|[A RIS-Based Passive DOA Estimation Method for Integrated Sensing and Communication System](https://github.com/chenpengseu/PassiveDOA-ISAC-RIS)|Chen, Z, etal.|
 |85|[Hybrid Relay-Reflecting Intelligent Surface-Assisted Wireless Communication](https://github.com/xiaogaogaoxiao/Hybrid-Relay-RIS)|Nhan Thanh Nguyen, etal.|
-|86|[IRS Enhanced Wireless Network Joint Active and Passive Beamforming Design](https://github.com/jhan-04/IRS_Enhanced-Wireless-Network_Joint-Active-and-Passive-BeamformingDesign_Qingqing-Wu-and-Rui-Zhang)|jhan-04(reproduction work)|
-|87|[Sum Rate Maximization for Linearly Precoded Downlink Multiuser MISO Systems With Partial CSIT A Rate](https://github.com/jhan-04/Sum-Rate-Maximization-for-Linearly-Precoded-Downlink-Multiuser-MISO-Systems-With-Partial-CSIT-A-Rate)|jhan-04(reproduction work)|
+|86|[Intelligent Reflecting Surface Enhanced Wireless Network: Joint Active and Passive Beamforming Design](https://github.com/jhan-04/IRS_Enhanced-Wireless-Network_Joint-Active-and-Passive-BeamformingDesign_Qingqing-Wu-and-Rui-Zhang)|jhan-04(reproduction work)|
+|87|[Sum-rate maximization for linearly precoded downlink multiuser MISO systems with partial CSIT: A rate-splitting approach](https://github.com/jhan-04/Sum-Rate-Maximization-for-Linearly-Precoded-Downlink-Multiuser-MISO-Systems-With-Partial-CSIT-A-Rate)|jhan-04(reproduction work)|
 
