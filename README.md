@@ -2,7 +2,7 @@
 
 # RIS(IRS)-Codes-Collection: A Collection Contains the Codes for RIS(IRS) Papers.
 
-## [Latest Update, 19/Jan/2023] No.88.
+## [Latest Update, 03/Feb/2023] No.89.
 
 * If you find new code for RIS(IRS) paper, please remind me [here](https://github.com/ken0225/RIS_Codes_Collection/issues). 
 
@@ -102,4 +102,4 @@
 |86|[Intelligent Reflecting Surface Enhanced Wireless Network: Joint Active and Passive Beamforming Design](https://github.com/jhan-04/IRS_Enhanced-Wireless-Network_Joint-Active-and-Passive-BeamformingDesign_Qingqing-Wu-and-Rui-Zhang)|jhan-04(reproduction work)|
 |87|[Sum-rate maximization for linearly precoded downlink multiuser MISO systems with partial CSIT: A rate-splitting approach](https://github.com/jhan-04/Sum-Rate-Maximization-for-Linearly-Precoded-Downlink-Multiuser-MISO-Systems-With-Partial-CSIT-A-Rate)|jhan-04(reproduction work)|
 |88|[End-to-end fading channel modeling for RIS-empowered smart wireless environments](https://github.com/philipp-delhougne/PhysFad)|Faqiri, etal.|
-
+|89|[A Novel SCA-Based Method for Beamforming Optimization in IRS/RIS-Assisted MU-MISO Downlink](https://github.com/vkumar-ucd/SCABeamformingIRS)|V. Kumar, etal.|
