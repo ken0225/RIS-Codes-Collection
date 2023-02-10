@@ -2,7 +2,7 @@
 
 # RIS(IRS)-Codes-Collection: A Collection Contains the Codes for RIS(IRS) Papers.
 
-## [Latest Update, 03/Feb/2023] No.89.
+## [Latest Update, 10/Feb/2023] No.90 & 91.
 
 * If you find new code for RIS(IRS) paper, please remind me [here](https://github.com/ken0225/RIS_Codes_Collection/issues). 
 
@@ -103,3 +103,5 @@
 |87|[Sum-rate maximization for linearly precoded downlink multiuser MISO systems with partial CSIT: A rate-splitting approach](https://github.com/jhan-04/Sum-Rate-Maximization-for-Linearly-Precoded-Downlink-Multiuser-MISO-Systems-With-Partial-CSIT-A-Rate)|jhan-04(reproduction work)|
 |88|[End-to-end fading channel modeling for RIS-empowered smart wireless environments](https://github.com/philipp-delhougne/PhysFad)|Faqiri, etal.|
 |89|[A Novel SCA-Based Method for Beamforming Optimization in IRS/RIS-Assisted MU-MISO Downlink](https://github.com/vkumar-ucd/SCABeamformingIRS)|V. Kumar, etal.|
+|90|[Uplink-Performance-of-Cell-Free-Extremely-Large-Scale-MIMO-Systems](https://github.com/HaoLei-tnunder/Uplink-Performance-of-Cell-Free-Extremely-Large-Scale-MIMO-Systems)|H. Lei, etal.|
+|91|[Low-Complexity Precoding for Extremely Large-Scale MIMO Over Non-Stationary Channels](https://github.com/bokaixu5/Low-complexity-precoding-algorithm-for-XL-MIMO)|Xu, Bokai, etal.|
