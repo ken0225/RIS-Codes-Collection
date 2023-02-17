@@ -105,3 +105,5 @@
 |89|[A Novel SCA-Based Method for Beamforming Optimization in IRS/RIS-Assisted MU-MISO Downlink](https://github.com/vkumar-ucd/SCABeamformingIRS)|V. Kumar, etal.|
 |90|[Uplink-Performance-of-Cell-Free-Extremely-Large-Scale-MIMO-Systems](https://github.com/HaoLei-tnunder/Uplink-Performance-of-Cell-Free-Extremely-Large-Scale-MIMO-Systems)|H. Lei, etal.|
 |91|[Low-Complexity Precoding for Extremely Large-Scale MIMO Over Non-Stationary Channels](https://github.com/bokaixu5/Low-complexity-precoding-algorithm-for-XL-MIMO)|Xu, Bokai, etal.|
+|92|[Multi-Beam Design for Extremely Large-Scale RIS Aided Near-Field Wireless Communications](http://oa.ee.tsinghua.edu.cn/dailinglong/publications/code/Multi-Beam_Design_for_Extremely_Large-Scale_RIS_Aided_Near-Field_Wireless_Communications.zip)|Linglong Dai, etal.|
+|93|[Active RISs: Signal modeling, asymptotic analysis, and beamforming design](http://oa.ee.tsinghua.edu.cn/dailinglong/publications/code/Active%20RISs_Signal%20Modeling,%20Asymptotic%20Analysis,%20and%20Beamforming%20Design.zip)|Linglong Dai, etal.|
