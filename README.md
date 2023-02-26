@@ -2,7 +2,7 @@
 
 # RIS(IRS)-Codes-Collection: A Collection Contains the Codes for RIS(IRS) Papers.
 
-## [Latest Update, 22/Feb/2023] No.94.
+## [Latest Update, 26/Feb/2023] No.95/96/97.
 
 * If you find new code for RIS(IRS) paper, please remind me [here](https://github.com/ken0225/RIS_Codes_Collection/issues). 
 
@@ -108,3 +108,6 @@
 |92|[Multi-Beam Design for Extremely Large-Scale RIS Aided Near-Field Wireless Communications](http://oa.ee.tsinghua.edu.cn/dailinglong/publications/code/Multi-Beam_Design_for_Extremely_Large-Scale_RIS_Aided_Near-Field_Wireless_Communications.zip)|Linglong Dai, etal.|
 |93|[Active RISs: Signal modeling, asymptotic analysis, and beamforming design](http://oa.ee.tsinghua.edu.cn/dailinglong/publications/code/Active%20RISs_Signal%20Modeling,%20Asymptotic%20Analysis,%20and%20Beamforming%20Design.zip)|Linglong Dai, etal.|
 |94|[Sensing RISs: Enabling dimension-independent CSI acquisition for beamforming](http://oa.ee.tsinghua.edu.cn/dailinglong/publications/code/Sensing%20RISs%20Enabling%20dimension-independent%20CSI%20acquisition%20for%20beamforming.zip)|Linglong Dai, etal.|
+|95|[Transforming RIS-Assidted Passive Beamforming from Tedious to Simple: A Relaxation Algorithm for Ricain Channel](https://github.com/dwyanedong/relaxation-algorithm-on-ris-miso)|Xuehui Dong, etal.|
+|96|[PhysFad: Physics-Based End-to-End Channel Modeling of RIS-Parametrized Environments with Adjustable Fading](https://github.com/philipp-delhougne/physfad)|Rashid Faqiri, etal.|
+|97|[Dimensioning an Indoor SISO RIS-system: Approximations and Equivalence Models](https://github.com/saksham291/dimensioning_ris)|aksham Bhushan, etal.|
