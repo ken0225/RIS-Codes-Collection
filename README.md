@@ -2,7 +2,7 @@
 
 # RIS(IRS)-Codes-Collection: A Collection Contains the Codes for RIS(IRS) Papers.
 
-## [Latest Update, 26/Feb/2023] No.95/96/97.
+## [Latest Update, 13/March/2023] No.98.
 
 * If you find new code for RIS(IRS) paper, please remind me [here](https://github.com/ken0225/RIS_Codes_Collection/issues). 
 
@@ -111,3 +111,4 @@
 |95|[Transforming RIS-Assidted Passive Beamforming from Tedious to Simple: A Relaxation Algorithm for Ricain Channel](https://github.com/dwyanedong/relaxation-algorithm-on-ris-miso)|Xuehui Dong, etal.|
 |96|[PhysFad: Physics-Based End-to-End Channel Modeling of RIS-Parametrized Environments with Adjustable Fading](https://github.com/philipp-delhougne/physfad)|Rashid Faqiri, etal.|
 |97|[Dimensioning an Indoor SISO RIS-system: Approximations and Equivalence Models](https://github.com/saksham291/dimensioning_ris)|aksham Bhushan, etal.|
+|98|[Low-Latency and Secure Computation Offloading Assisted by Hybrid Relay-Reflecting Intelligent Surface](https://github.com/khachoang1412/HRRIS_for_MEC)|K. -H. Ngo, etal.|
