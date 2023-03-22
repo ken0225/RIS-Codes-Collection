@@ -2,7 +2,7 @@
 
 # RIS-Codes-Collection: A Complete Collection Contains the Codes for RIS(IRS) Papers.
 
-## [Latest Update, 21/March/2023] No.99.
+## [Latest Update, 22/March/2023] No.100.
 
 * If you find new code for RIS(IRS) paper, please remind me [here](https://github.com/ken0225/RIS_Codes_Collection/issues). 
 
@@ -113,3 +113,4 @@
 |97|[Dimensioning an Indoor SISO RIS-system: Approximations and Equivalence Models](https://github.com/saksham291/dimensioning_ris)|aksham Bhushan, etal.|
 |98|[Low-Latency and Secure Computation Offloading Assisted by Hybrid Relay-Reflecting Intelligent Surface](https://github.com/khachoang1412/HRRIS_for_MEC)|K. -H. Ngo, etal.|
 |99|[NOMA-Based Coexistence of Near-Field and Far-Field Massive MIMO Communications](https://github.com/zhiguo-ding/near_far_field)|Z. Ding, etal.|
+|100|[Multi-Functional RIS-Aided Wireless Communications](https://github.com/WW-BUPT/MF-RIS)|Wen Wang, etal.|
