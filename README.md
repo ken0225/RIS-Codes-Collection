@@ -2,7 +2,7 @@
 
 # RIS-Codes-Collection: A Complete Collection Contains the Codes for RIS(IRS) Papers.
 
-## [Latest Update, 26/March/2023] No.101.
+## [Latest Update, 01/April/2023] No.102.
 
 * If you find new code for RIS(IRS) paper, please remind me [here](https://github.com/ken0225/RIS_Codes_Collection/issues). 
 
@@ -115,3 +115,4 @@
 |99|[NOMA-Based Coexistence of Near-Field and Far-Field Massive MIMO Communications](https://github.com/zhiguo-ding/near_far_field)|Z. Ding, etal.|
 |100|[Multi-Functional RIS-Aided Wireless Communications](https://github.com/WW-BUPT/MF-RIS)|Wen Wang, etal.|
 |101|[Localization-based OFDM framework for RIS-aided systems](https://github.com/lostinafro/ris-ofdm-loca-scheduling)|Fabio Saggese, etal.|
+|102|[A Framework for Control Channels Applied to Reconfigurable Intelligent Surfaces](https://github.com/lostinafro/ris-control)|Fabio Saggese, etal.|
