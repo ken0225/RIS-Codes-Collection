@@ -118,3 +118,4 @@
 |102|[A Framework for Control Channels Applied to Reconfigurable Intelligent Surfaces](https://github.com/lostinafro/ris-control)|Fabio Saggese, etal.|
 |103|[Long-Lasting UAV-aided RIS Communications based on SWIPT](https://github.com/Haoran-Peng/UAV-RIS_EH_DDPG)|Peng Haoran, etal.|
 |104|[Energy Harvesting Reconfigurable Intelligent Surface for UAV Based on Robust Deep Reinforcement Learning](https://github.com/Haoran-Peng/UAV-RIS_EnergyHarvesting)|Peng Haoran, etal.|
+|105|[RISnet: a Dedicated Scalable Neural Network Architecture for Optimization of Reconfigurable Intelligent Surfaces](https://github.com/bilepeng/risnet)|B. Peng, etal.|
