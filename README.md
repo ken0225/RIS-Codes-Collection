@@ -2,7 +2,7 @@
 
 # RIS-Codes-Collection: A Complete Collection Contains the Codes for RIS(IRS) Papers.
 
-## Latest Update: [27/April/2023, No.105]
+## Latest Update: [07/May/2023, No.106]
 
 * If you find new code for RIS(IRS) paper, please remind me [here](https://github.com/ken0225/RIS_Codes_Collection/issues). 
 
@@ -119,3 +119,4 @@
 |103|[Long-Lasting UAV-aided RIS Communications based on SWIPT](https://github.com/Haoran-Peng/UAV-RIS_EH_DDPG)|Peng Haoran, etal.|
 |104|[Energy Harvesting Reconfigurable Intelligent Surface for UAV Based on Robust Deep Reinforcement Learning](https://github.com/Haoran-Peng/UAV-RIS_EnergyHarvesting)|Peng Haoran, etal.|
 |105|[RISnet: a Dedicated Scalable Neural Network Architecture for Optimization of Reconfigurable Intelligent Surfaces](https://github.com/bilepeng/risnet)|B. Peng, etal.|
+|106|[Deep Reinforcement Learning for Secrecy Energy-Efficient UAV Communication with Reconfigurable Intelligent Surfaces](https://github.com/yjwong1999/Twin-TD3)|yjwong1999, etal.|
