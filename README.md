@@ -12,7 +12,7 @@
 
 * Please **STAR** this collection if it is helpful to you.
 
-* I'm in charge of this project, but if the code you're looking for isn't in this project, I **can't** help you find it elsewhere
+* I'm in charge of this project, but if the code you're looking for isn't in this project, I **can't** help you find it elsewhere.
 
 |No.| Paper Title | Authors | 
 | ------ | ------ | ------ |
