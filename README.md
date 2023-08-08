@@ -10,7 +10,9 @@
 
 * Some authorizations by authors can be found [here](https://github.com/bmatthiesen/IRS-continuous/issues/1) and [here](https://github.com/emilbjornson/IRS-relaying/issues/1).
 
-* Please **STAR** this collection if it is helpful to you. 
+* Please **STAR** this collection if it is helpful to you.
+
+* I'm in charge of this project, but if the code you're looking for isn't in this project, I **can't** help you find it elsewhere
 
 |No.| Paper Title | Authors | 
 | ------ | ------ | ------ |
