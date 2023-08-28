@@ -2,7 +2,7 @@
 
 # RIS-Codes-Collection: A Complete Collection Contains the Codes for RIS(IRS) Papers.
 
-## Latest Update: [27/August/2023, No.111]
+## Latest Update: [28/August/2023, No.112]
 
 * If you find new code for RIS(IRS) paper, please remind me [here](https://github.com/ken0225/RIS_Codes_Collection/issues). 
 
@@ -125,4 +125,5 @@
 |109|[Sensing User's Channel and Location with Terahertz Extra-Large Reconfigurable Intelligent Surface under Hybrid-Field Beam Squint Effect](https://github.com/LiZhuoRan0/RIS-AidedChannelEstandLocalization_THzHybridFieldBeamSquint)|Z. Li, etal.|
 |110|[Closed-Form Global Optimization of Beyond Diagonal Reconfigurable Intelligent Surfaces](https://github.com/matteonerini/optimization-of-bdris)|M. Nerini, etal.|
 |111|[Is Channel Estimation Necessary to Select Phase-Shifts for RIS-Assisted Massive MIMO?](https://github.com/emilbjornson/RIS-massive-MIMO)|Emil Björnson, etal.|
+|112|[RIS-Assisted Self-Interference Mitigation for In-Band Full-Duplex Transceivers](https://github.com/henryforzhang/ris-self-interference-mitigation)|Zhang W, etal.|
 
