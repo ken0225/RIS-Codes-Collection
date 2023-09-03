@@ -2,7 +2,7 @@
 
 # RIS-Codes-Collection: A Complete Collection Contains the Codes for RIS(IRS) Papers.
 
-## Latest Update: [28/August/2023, No.112]
+## Latest Update: [03/September/2023, No.113&114]
 
 * If you find new code for RIS(IRS) paper, please remind me [here](https://github.com/ken0225/RIS_Codes_Collection/issues). 
 
@@ -127,4 +127,5 @@
 |111|[Is Channel Estimation Necessary to Select Phase-Shifts for RIS-Assisted Massive MIMO?](https://github.com/emilbjornson/RIS-massive-MIMO)|Emil Björnson, etal.|
 |112|[RIS-Assisted Self-Interference Mitigation for In-Band Full-Duplex Transceivers](https://github.com/henryforzhang/ris-self-interference-mitigation)|Zhang W, etal.|
 |113|[A Self-Supervised Learning-Based Channel Estimation for IRS-Aided Communication Without Ground Truth](https://github.com/jhcknzzm/SSL-Based-IRS-Channel-Estimation)|Zhengming Zhang, etal.|
+|114|[An Orchestration Framework for Open System Models of Reconfigurable Intelligent Surfaces](https://github.com/victorcroisfelt/self-configuring-orchestration)|Croisfelt, V, etal.|
 
