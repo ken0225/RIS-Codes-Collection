@@ -126,4 +126,5 @@
 |110|[Closed-Form Global Optimization of Beyond Diagonal Reconfigurable Intelligent Surfaces](https://github.com/matteonerini/optimization-of-bdris)|M. Nerini, etal.|
 |111|[Is Channel Estimation Necessary to Select Phase-Shifts for RIS-Assisted Massive MIMO?](https://github.com/emilbjornson/RIS-massive-MIMO)|Emil Björnson, etal.|
 |112|[RIS-Assisted Self-Interference Mitigation for In-Band Full-Duplex Transceivers](https://github.com/henryforzhang/ris-self-interference-mitigation)|Zhang W, etal.|
+|113|[A Self-Supervised Learning-Based Channel Estimation for IRS-Aided Communication Without Ground Truth](https://github.com/jhcknzzm/SSL-Based-IRS-Channel-Estimation)|Zhengming Zhang, etal.|
 
