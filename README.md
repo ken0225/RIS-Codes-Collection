@@ -14,6 +14,9 @@
 
 * I'm in charge of this project, but if the code you're looking for isn't in the repertory, I **CANNOT** help you find it elsewhere.
 
+* If you are interested in hardware impairments in the RIS-aided system, I recommend my latest work, which is published in IEEE VTC2023-Fall: <a href="CU_Apr_2022.pdf">"How Long Can RIS Work Effectively: 
+An Electronic Reliability Perspective"</a>. Compared with previous works, this paper introduced a new non-residual impairment factor in the RIS-aided system, named the stochastic hardware aging (HA) effect, which describes runtime-related hardware degradations and failures.
+
 |No.| Paper Title | Authors | 
 | ------ | ------ | ------ |
 |1| [Intelligent Reflecting Surface Operation under Predictable Receiver Mobility: A Continuous Time Propagation Model](https://github.com/bmatthiesen/IRS-continuous) | Bho Matthiesen, etal. | 
