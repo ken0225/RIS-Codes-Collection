@@ -2,7 +2,7 @@
 
 # RIS-Codes-Collection: A Complete Collection Contains the Codes for RIS(IRS) Papers.
 
-## Latest Update: [08/September/2023, No.115]
+## Latest Update: [13/October/2023, No.115]
 
 * If you find new code for RIS(IRS) paper, please remind me [here](https://github.com/ken0225/RIS_Codes_Collection/issues). 
 
