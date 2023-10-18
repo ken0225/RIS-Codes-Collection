@@ -2,7 +2,7 @@
 
 # RIS-Codes-Collection: A Complete Collection Contains the Codes for RIS(IRS) Papers.
 
-## Latest Update: [13/October/2023, No.115]
+## Latest Update: [18/October/2023, No.116]
 
 * If you find new code for RIS(IRS) paper, please remind me [here](https://github.com/ken0225/RIS_Codes_Collection/issues). 
 
@@ -131,4 +131,5 @@ An Electronic Reliability Perspective"</a>. Compared with previous works, this p
 |113|[A Self-Supervised Learning-Based Channel Estimation for IRS-Aided Communication Without Ground Truth](https://github.com/jhcknzzm/SSL-Based-IRS-Channel-Estimation)|Zhengming Zhang, etal.|
 |114|[An Orchestration Framework for Open System Models of Reconfigurable Intelligent Surfaces](https://github.com/victorcroisfelt/self-configuring-orchestration)|Croisfelt, V, etal.|
 |115|[A Comprehensive Dataset of RIS-based Channel Measurements in the 5GHz Band](https://github.com/RUB-DCS/RIS-S21-Measurement-Dataset)|Simon Tewes, etal.|
+|116|[Dual-Polarized Reconfigurable Intelligent Surface Assisted Broad Beamforming](https://github.com/parisaramezani/RISBroadBeamforming)|Parisa Ramezani, etal.|
 
