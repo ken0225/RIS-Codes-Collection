@@ -17,7 +17,7 @@
 * If you are interested in hardware impairments in the RIS-aided system, I recommend my latest work, which is published in IEEE VTC2023-Fall: <a href="https://github.com/ken0225/ken0225.github.io/blob/main/hardware_aging_RIS_vtc23f_Ken.pdf">"How Long Can RIS Work Effectively: 
 An Electronic Reliability Perspective"</a>. Compared with previous works, this paper introduced a new non-residual impairment factor in the RIS-aided system, named the stochastic hardware aging (HA) effect, which describes runtime-related hardware degradations and failures.
 
-* My Personal Page is available: [kewang.fun](kewang.fun)
+* My Personal Page is available: [kewang.fun](http://kewang.fun)
 
 |No.| Paper Title | Authors | 
 | ------ | ------ | ------ |
