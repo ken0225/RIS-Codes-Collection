@@ -2,7 +2,7 @@
 
 # RIS-Codes-Collection: A Complete Collection Contains the Codes for RIS(IRS) Papers.
 
-## Latest Update: [22/October/2023, No.117]
+## Latest Update: [12/Nov/2023, No.118-No.120]
 
 * If you find new code for RIS(IRS) paper, please remind me [here](https://github.com/ken0225/RIS_Codes_Collection/issues). 
 
@@ -135,4 +135,7 @@ An Electronic Reliability Perspective</a>. Compared with previous works, this pa
 |115|[A Comprehensive Dataset of RIS-based Channel Measurements in the 5GHz Band](https://github.com/RUB-DCS/RIS-S21-Measurement-Dataset)|Simon Tewes, etal.|
 |116|[Dual-Polarized Reconfigurable Intelligent Surface Assisted Broad Beamforming](https://github.com/parisaramezani/RISBroadBeamforming)|Parisa Ramezani, etal.|
 |117|[Multi-beam design for near-field extremely large-scale RIS-aided wireless communications](http://oa.ee.tsinghua.edu.cn/dailinglong/publications/code/Multi-Beam_Design_for_Extremely_Large-Scale_RIS_Aided_Near-Field_Wireless_Communications.zip)|Linglong Dai, etal.|
+|118|[Near-field integrated sensing and communications](https://github.com/zhaolin820/near-field-integrated-sensing-and-communications)|Z. Wang, etal.|
+|119|[Simultaneously Transmitting and Reflecting Surface (STARS) for Terahertz Communications](https://github.com/zhaolin820/STAR-RIS-for-terahertz-communications)|Z. Wang, etal.|
+|120|[Coupled phase-shift STAR-RISs: A general optimization framework](https://github.com/zhaolin820/coupled-phase-shift-STAR-RIS)|Z. Wang, etal.|
 
