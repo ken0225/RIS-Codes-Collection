@@ -14,10 +14,10 @@
 
 * I'm in charge of this project, but if the code you're looking for isn't in the repertory, I **CANNOT** help you find it elsewhere.
 
-* If you are interested in hardware impairments in the RIS-aided system, I recommend my latest work, which is published in IEEE VTC2023-Fall: <a href="http://kewang.fun/hardware_aging_RIS_vtc23f_Ken.pdf">How Long Can RIS Work Effectively: 
-An Electronic Reliability Perspective</a>. Compared with previous works, this paper introduced a new non-residual impairment factor in the RIS-aided system, named the stochastic hardware aging (HA) effect, which describes runtime-related hardware degradations and failures.
+* If you are interested in hardware impairments in the RIS-aided system, I recommend my latest work, which has been published in IEEE VTC2023-Fall: <a href="http://kewang.fun/hardware_aging_RIS_vtc23f_Ken.pdf">How Long Can RIS Work Effectively: 
+An Electronic Reliability Perspective</a>. Compared with previous works, this paper introduced a **NEW** non-residual impairment factor in the RIS-aided system, named the stochastic hardware aging (HA) effect, which describes runtime-related hardware degradations and failures.
 
-* My Personal Page is available: [kewang.fun](http://kewang.fun)
+* My personal page is available: [kewang.fun](http://kewang.fun)
 
 |No.| Paper Title | Authors | 
 | ------ | ------ | ------ |
