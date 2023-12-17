@@ -138,4 +138,4 @@ An Electronic Reliability Perspective</a>. Compared with previous works, this pa
 |118|[Near-field integrated sensing and communications](https://github.com/zhaolin820/near-field-integrated-sensing-and-communications)|Z. Wang, etal.|
 |119|[Simultaneously Transmitting and Reflecting Surface (STARS) for Terahertz Communications](https://github.com/zhaolin820/STAR-RIS-for-terahertz-communications)|Z. Wang, etal.|
 |120|[Coupled phase-shift STAR-RISs: A general optimization framework](https://github.com/zhaolin820/coupled-phase-shift-STAR-RIS)|Z. Wang, etal.|
-|121|[Designing, Building, and Characterizing RF Switch-based Reconfigurable Intelligent Surfaces](https://github.com/marcantonio14/RIS-Power-Measurements-Dataset)|Rossanese, Marco, etal.|
+|121|[Designing, Building, and Characterizing RF Switch-based Reconfigurable Intelligent Surfaces](https://github.com/marcantonio14/RIS-Power-Measurements-Dataset)|Rossanese Marco, etal.|
