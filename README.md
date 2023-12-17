@@ -2,7 +2,7 @@
 
 # RIS-Codes-Collection: A Complete Collection Contains the Codes for RIS(IRS) Papers.
 
-## Latest Update: [17/Dec/2023, No.121]
+## Latest Update: [17/Dec/2023, No.121&122]
 
 * If you find new code for RIS(IRS) paper, please remind me [here](https://github.com/ken0225/RIS_Codes_Collection/issues). 
 
@@ -139,3 +139,4 @@ An Electronic Reliability Perspective</a>. Compared with previous works, this pa
 |119|[Simultaneously Transmitting and Reflecting Surface (STARS) for Terahertz Communications](https://github.com/zhaolin820/STAR-RIS-for-terahertz-communications)|Z. Wang, etal.|
 |120|[Coupled phase-shift STAR-RISs: A general optimization framework](https://github.com/zhaolin820/coupled-phase-shift-STAR-RIS)|Z. Wang, etal.|
 |121|[Designing, Building, and Characterizing RF Switch-based Reconfigurable Intelligent Surfaces](https://github.com/marcantonio14/RIS-Power-Measurements-Dataset)|Rossanese Marco, etal.|
+|122|[Transmissive RIS for B5G communications: Design, prototyping, and experimental demonstrations](http://oa.ee.tsinghua.edu.cn/dailinglong/publications/code/Reconfigurable%20intelligent%20surfaces%20for%206G%20Nine%20fundamental%20issues%20and%20one%20critical%20problem.zip)|Linglong Dai, etal.|
