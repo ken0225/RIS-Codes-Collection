@@ -15,7 +15,7 @@
 * I'm in charge of this project, but if the code you're looking for isn't in the repertory, I **CANNOT** help you find it elsewhere.
 
 * If you are interested in hardware impairments in the RIS-aided system, I recommend my latest work, which has been published in IEEE VTC2023-Fall: <a href="http://kewang.fun/hardware_aging_RIS_vtc23f_Ken.pdf">How Long Can RIS Work Effectively: 
-An Electronic Reliability Perspective</a>. Compared with previous works, this paper introduced a **NEW** non-residual impairment factor in the RIS-aided system, named the stochastic hardware aging (HA) effect, which describes runtime-related hardware degradations and failures. To the best knowledge of the authors, this is the first work on operation (running) times of the RIS, which reveals a **NEW** dimension (and metric) for analyzing and evaluating the RIS-aided system performance. You can also find this work in IEEE Xplore <a href="https://ieeexplore.ieee.org/document/10333489">here</a>
+An Electronic Reliability Perspective</a>. Compared with previous works, this paper introduced a **NEW** non-residual impairment factor in the RIS-aided system, named the stochastic hardware aging (HA) effect, which describes runtime-related hardware degradations and failures. To the best knowledge of the authors, this is the first work on operation (running) times of the RIS, which reveals a **NEW** dimension (and metric) for analyzing and evaluating the RIS-aided system performance. You can also find this work in IEEE Xplore <a href="https://ieeexplore.ieee.org/document/10333489">here</a>.
 
 * My personal page is available: [kewang.fun](http://kewang.fun)
 
