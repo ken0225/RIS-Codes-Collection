@@ -140,5 +140,5 @@ An Electronic Reliability Perspective</a>. Compared with previous works, this pa
 |120|[Coupled phase-shift STAR-RISs: A general optimization framework](https://github.com/zhaolin820/coupled-phase-shift-STAR-RIS)|Z. Wang, etal.|
 |121|[Designing, Building, and Characterizing RF Switch-based Reconfigurable Intelligent Surfaces](https://github.com/marcantonio14/RIS-Power-Measurements-Dataset)|Rossanese Marco, etal.|
 |122|[Transmissive RIS for B5G communications: Design, prototyping, and experimental demonstrations](http://oa.ee.tsinghua.edu.cn/dailinglong/publications/publications.html)|Linglong Dai, etal.|
-|123|[Submodular Optimization for positioning of Reconfigurable Intelligent Surfaces (RIS)](https://github.com/TaraEsmaeilbeig/Submodular-Optimization)|Esmaeilbeig Zahra, etal.|
+|123|[Submodular Optimization for positioning of Reconfigurable Intelligent Surfaces (RIS)](https://github.com/TaraEsmaeilbeig/Submodular-Optimization)|Zahra Esmaeilbeig, etal.|
 
