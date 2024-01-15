@@ -2,7 +2,7 @@
 
 # RIS-Codes-Collection: A Complete Collection Contains the Codes for RIS(IRS) Papers.
 
-## Latest Update: [12/Jan/2024, No.124]
+## Latest Update: [15/Jan/2024, No.125]
 
 * If you find new code for RIS(IRS) paper, please remind me [here](https://github.com/ken0225/RIS_Codes_Collection/issues). 
 
@@ -142,4 +142,5 @@ An Electronic Reliability Perspective</a>. Compared with previous works, this pa
 |122|[Transmissive RIS for B5G communications: Design, prototyping, and experimental demonstrations](http://oa.ee.tsinghua.edu.cn/dailinglong/publications/publications.html)|Linglong Dai, etal.|
 |123|[Submodular Optimization for positioning of Reconfigurable Intelligent Surfaces (RIS)](https://github.com/TaraEsmaeilbeig/Submodular-Optimization)|Zahra Esmaeilbeig, etal.|
 |124|[东南大学-紫金山实验室-6G普适信道仿真器（SEU-PML-6GPCS)](https://ncrl.seu.edu.cn/2023/1024/c34871a469485/page.htm)|C.-X. Wang, etal.|
+|125|[Introduction to Multiple Antenna Communications and Reconfigurable Surfaces](https://github.com/emilbjornson/mimobook)|Emil Björnson and Özlem Tuğfe Demir.|
 
