@@ -1,6 +1,6 @@
 ## IMPORTANT: If you in any way use the code in this collection for research that results in publications, please CITE the original article.
 
-# RIS-Codes-Collection: A Complete Collection Contains the Codes for RIS(IRS) Researches.
+# RIS-Codes-Collection: A Complete Collection contains the Codes for RIS(IRS) Researches.
 
 ## Latest Update: [15/Jan/2024, No.125]
 
