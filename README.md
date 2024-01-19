@@ -34,7 +34,7 @@ An Electronic Reliability Perspective</a>. Compared with previous works, this pa
 |11|[Diagnosis of Intelligent Reflecting Surface in Millimeter-wave Communication Systems](https://github.com/DestinationSR/IRSdiagnosis)|Rui Sun, etal.|
 |12|[Intelligent Reflecting Surfaces: Physics, Propagation, and Pathloss Modeling](https://github.com/emilbjornson/IRS-modeling)|Özgecan Özdogan, etal.|
 |15|[PARAFAC-Based Channel Estimation for Intelligent Reflective Surface Assisted MIMO System](https://github.com/TianLin0509/reproduction_of_BALS)|TianLin(reproduction work).|
-|16|[A Framework of Robust Transmission Design for IRS-Aided MISO Communications With Imperfect Cascaded Channels](https://github.com/ken0225/Framework-of-Robust-Transmission-Design-for-IRS-Aided-MISO-Communications)|G. Zhou, C. Pan， etal.|
+|16|[A Framework of Robust Transmission Design for IRS-Aided MISO Communications With Imperfect Cascaded Channels](https://github.com/ken0225/Framework-of-Robust-Transmission-Design-for-IRS-Aided-MISO-Communications)|G. Zhou, etal.|
 |17|[SISO RIS-Enabled Joint 3D Downlink Localization and Synchronization](https://github.com/KamranKeykhosravi/RIS-Enabled-SISO-Localization)|Kamran Keykhosravi, etal.|
 |18|[Near-field Localization with a Reconfigurable Intelligent Surface Acting as Lens](https://github.com/henkwymeersch/RISLensLocalization)|Zohair Abu-Shaban, etal.|
 |19|[Channel Estimation for RIS Assisted Wireless Communications: Part II - An Improved Solution Based on Double-Structured Sparsity](http://oa.ee.tsinghua.edu.cn/dailinglong/publications/publications.html)| Linglong Dai, etal.|
