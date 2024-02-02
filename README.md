@@ -1,4 +1,4 @@
-## IMPORTANT: If you in any way use the code in this collection for research that results in publications, please CITE the original article.
+## IMPORTANT: If you in any way use the code in this collection for research that results in publications, please CITE the original article. I also recommend that you mention the existence of the code package that you use in your manuscript, to spread the word about its existence and to ensure that you will not be accused of plagiarism by the reviewers of your manuscript.
 
 # RIS-Codes-Collection: A Complete Collection contains the Codes for RIS(IRS) Researches.
 
