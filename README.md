@@ -2,7 +2,7 @@
 
 # RIS-Codes-Collection: A Complete Collection contains the Codes for RIS(IRS) Researches.
 
-## Latest Update: [25/Feb/2024, No.127]
+## Latest Update: [06/Mar/2024, No.128&129]
 
 * If you find new code for RIS(IRS) paper, please remind me [here](https://github.com/ken0225/RIS_Codes_Collection/issues). 
 
@@ -145,4 +145,6 @@ An Electronic Reliability Perspective</a>. Compared with previous works, this pa
 |125|[Introduction to Multiple Antenna Communications and Reconfigurable Surfaces](https://github.com/emilbjornson/mimobook)|Emil Björnson, etal.|
 |126|[Reconfigurable Intelligent Surface Assisted Communications Using Dynamic Rotations](https://github.com/ken0225/RIS-Using-Dynamic-Rotations)|K. Wang, etal.|
 |127|[DNN-DANM: A High-Accuracy Two-Dimensional DOA Estimation Method Using Practical RIS](https://github.com/chenpengseu/DNN-DANM)|Z. Chen, etal.|
+|128|[Efficient LOS Channel Estimation for RIS Aided Communications Under Non Stationary Mobility](https://github.com/barbaalba/Efficient-LOS-Channel-Estimation-for-RIS-Aided-Communications-Under-Non-Stationary-Mobility)|M. Haghshenas, etal.|
+|129|[A New Channel Subspace Characterization for Channel Estimation in RIS Aided Communications](https://github.com/barbaalba/A-New-Channel-Subspace-Characterization-for-Channel-Estimation-in-RIS-Aided-Communications)|M. Haghshenas, etal.|
 
