@@ -2,7 +2,7 @@
 
 # RIS-Codes-Collection: A Complete Collection contains the Codes for RIS(IRS) Researches.
 
-## Latest Update: [26/Mar/2024, No.132&133]
+## Latest Update: [27/Mar/2024, No.134]
 
 * If you find new code for RIS(IRS) paper, please remind me [here](https://github.com/ken0225/RIS_Codes_Collection/issues). 
 
@@ -150,4 +150,5 @@ An Electronic Reliability Perspective</a>. Compared with previous works, this pa
 |130|[Parametric Channel Estimation with Short Pilots in RIS-Assisted Near-and Far-Field Communications](https://github.com/barbaalba/Parametric-Channel-Estimation-with-Short-Pilots-in-RIS-Assisted-Near-and-Far-Field-Communications)|M. Haghshenas, etal.|
 |131|[Deep Reinforcement Learning for Intelligent Reflecting Surfaces: Towards Standalone Operation](https://www.deepmimo.net/applications/intelligent-reflecting-surfaces-rl/)|A. Taha, etal.|
 |132|[Wavenumber Domain Sparse Channel Estimation in Holographic MIMO](https://github.com/Brook1711/ICC-GCSE-Code)|Xufeng Guo, etal.|
-|133|[RIS(Reconfigurable Intelligent Surface) Simulations.](https://github.com/Brook1711/RIS_components)|Brook1711|
+|133|[RIS(Reconfigurable Intelligent Surface) Simulations](https://github.com/Brook1711/RIS_components)|Brook1711|
+|134|[RIS Energy Efficiency Optimization with Practical Power Models](https://sky-lzy.github.io/)|Zhiyi Li, etal.|
