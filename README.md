@@ -19,7 +19,7 @@ An Electronic Reliability Perspective</a>. Compared with previous works, this pa
 
 * My personal page is available: [kewang.fun](http://kewang.fun)
 
-* Star History
+* Star history
 
 [![RIS-Codes-Collection](https://api.star-history.com/svg?repos=ken0225/RIS-Codes-Collection)](https://star-history.com/#datawhalechina/leedl-tutorial&Date)
 
