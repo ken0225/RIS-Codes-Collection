@@ -23,6 +23,8 @@ An Electronic Reliability Perspective</a>. Compared with previous works, this pa
 
 [![RIS-Codes-Collection](https://api.star-history.com/svg?repos=ken0225/RIS-Codes-Collection)](https://star-history.com/#datawhalechina/leedl-tutorial&Date)
 
+* Project details
+  
 |No.| Paper Title | Authors | 
 | ------ | ------ | ------ |
 |1| [Intelligent Reflecting Surface Operation under Predictable Receiver Mobility: A Continuous Time Propagation Model](https://github.com/bmatthiesen/IRS-continuous) | Bho Matthiesen, etal. | 
