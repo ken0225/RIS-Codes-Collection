@@ -161,4 +161,4 @@ An Electronic Reliability Perspective</a>. Compared with previous works, this pa
 |135|[Robust Transceiver Design for RIS-Aided Spatially Correlated MIMO Channels with Uncertainty](https://github.com/wenhaofseu/Robust-Transceiver-RIS)|Xiao Liang, etal.|
 |136|[Gambling on Reconfigurable Intelligent Surfaces](https://github.com/StefanSchwarzTUW/RIS_Gambling)|Stefan Schwarz.|
 |137|[Control Aspects for Using RIS in Latency-Constrained Mobile Edge Computing](https://github.com/victorcroisfelt/mec-with-ris-control)|Chowdhury A, etal|
-|138|[Near-field 2D hierarchical beam training for extremely large-scale MIMO](http://oa.ee.tsinghua.edu.cn/dailinglong/publications)|Y. Lu, etal|
+|138|[Near-field 2D hierarchical beam training for extremely large-scale MIMO](http://oa.ee.tsinghua.edu.cn/dailinglong/publications/publications.html)|Y. Lu, etal|
