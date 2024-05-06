@@ -2,7 +2,7 @@
 
 # RIS-Codes-Collection: A Complete Collection contains the Codes for RIS(IRS) Researches.
 
-## Latest Update: [05/May/2024, No.138]
+## Latest Update: [06/May/2024, No.138]
 
 * If you find new code for RIS(IRS) paper, please remind me [here](https://github.com/ken0225/RIS_Codes_Collection/issues). 
 
@@ -163,3 +163,4 @@ An Electronic Reliability Perspective</a>. Compared with previous works, this pa
 |137|[Control Aspects for Using RIS in Latency-Constrained Mobile Edge Computing](https://github.com/victorcroisfelt/mec-with-ris-control)|Chowdhury A, etal|
 |138|[Near-field 2D hierarchical beam training for extremely large-scale MIMO](http://oa.ee.tsinghua.edu.cn/dailinglong/publications/publications.html)|Y. Lu, etal|
 |139|[A Joint Optimization of Pilot and Phase Shifts in Uplink Channel Estimation for Hybrid RIS-Aided Multi-User Communication Systems](https://github.com/Jiwook-Choi/Channel-Estimation-for-Hybrid-RIS)|Choi J, etal|
+|140|[Multi-agent Reinforcement Learning-based Joint Precoding and Phase Shift Optimization for RIS-aided Cell-Free Massive MIMO Systems](https://github.com/YiyangZYY/MARL-based_Joint_Precoding_and_Phase_Shift_Optimization_for_RIS-aided_Cell-Free_Massive_MIMO_Systems)|Y. Zhu, etal|
