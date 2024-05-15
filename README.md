@@ -2,7 +2,7 @@
 
 # RIS-Codes-Collection: A Complete Collection contains the Codes for RIS(IRS) Researches.
 
-## Latest Update: [06/May/2024, No.140]
+## Latest Update: [15/May/2024, No.141 - No.145]
 
 * If you find new code for RIS(IRS) paper, please remind me [here](https://github.com/ken0225/RIS_Codes_Collection/issues). 
 
@@ -164,3 +164,8 @@ An Electronic Reliability Perspective</a>. Compared with previous works, this pa
 |138|[Near-field 2D hierarchical beam training for extremely large-scale MIMO](http://oa.ee.tsinghua.edu.cn/dailinglong/publications/publications.html)|Y. Lu, etal|
 |139|[A Joint Optimization of Pilot and Phase Shifts in Uplink Channel Estimation for Hybrid RIS-Aided Multi-User Communication Systems](https://github.com/Jiwook-Choi/Channel-Estimation-for-Hybrid-RIS)|Choi J, etal|
 |140|[Multi-agent Reinforcement Learning-based Joint Precoding and Phase Shift Optimization for RIS-aided Cell-Free Massive MIMO Systems](https://github.com/YiyangZYY/MARL-based_Joint_Precoding_and_Phase_Shift_Optimization_for_RIS-aided_Cell-Free_Massive_MIMO_Systems)|Y. Zhu, etal|
+|141|[SNR/CRB-Constrained Joint Beamforming and Reflection Designs for RIS-ISAC Systems](https://github.com/RangLiu0706/SNR-CRB-constrained-beamforming-for-RIS-ISAC)|R. Liu, etal|
+|142|[Joint transmit waveform and passive beamforming design for RIS-aided DFRC systems](https://github.com/RangLiu0706/waveform-design-for-RIS-ISAC)|R. Liu, etal|
+|143|[Integrated sensing and communication with reconfigurable intelligent surfaces: Opportunities, applications, and future directions](https://github.com/RangLiu0706/RIS_ISAC_magazine)|R. Liu, etal|
+|144|[Intelligent reflecting surface based passive information transmission: A symbol-level precoding approach](https://github.com/RangLiu0706/RIS-based-passive-information-transmission)|R. Liu, etal|
+|145|[Joint symbol-level precoding and reflecting designs for IRS-enhanced MU-MISO systems](https://github.com/RangLiu0706/RIS-enhanced-SLP-for-MU-MISO)|R. Liu, etal|
