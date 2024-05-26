@@ -2,7 +2,7 @@
 
 # RIS-Codes-Collection: A Complete Collection contains the Codes for RIS(IRS) Researches.
 
-## Latest Update: [16/May/2024, No.146]
+## Latest Update: [26/May/2024, No.147]
 
 * If you find new code for RIS(IRS) paper, please remind me [here](https://github.com/ken0225/RIS_Codes_Collection/issues). 
 
@@ -170,3 +170,4 @@ An Electronic Reliability Perspective</a>. Compared with previous works, this pa
 |144|[Intelligent reflecting surface based passive information transmission: A symbol-level precoding approach](https://github.com/RangLiu0706/RIS-based-passive-information-transmission)|R. Liu, etal|
 |145|[Joint symbol-level precoding and reflecting designs for IRS-enhanced MU-MISO systems](https://github.com/RangLiu0706/RIS-enhanced-SLP-for-MU-MISO)|R. Liu, etal|
 |146|[Joint Waveform Design and Passive Beamforming for RIS-Assisted Dual-functional Radar-Communication System](https://github.com/wxy1018/Waveform-Reflection-Design-for-RIS-ISAC)|X. Wang, etal|
+|147|[Toward Analytical Electromagnetic Models for Reconfigurable Intelligent Surfaces](https://github.com/mitiebin/RIS_Models)|Tiebin Mi, etal|
