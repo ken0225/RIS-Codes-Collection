@@ -2,7 +2,7 @@
 
 # RIS-Codes-Collection: A Complete Collection contains the Codes for RIS(IRS) Researches.
 
-## Latest Update: [26/May/2024, No.147]
+## Latest Update: [09/June/2024, No.148 & No.149]
 
 * If you find new code for RIS(IRS) paper, please remind me [here](https://github.com/ken0225/RIS_Codes_Collection/issues). 
 
@@ -171,3 +171,5 @@ An Electronic Reliability Perspective</a>. Compared with previous works, this pa
 |145|[Joint symbol-level precoding and reflecting designs for IRS-enhanced MU-MISO systems](https://github.com/RangLiu0706/RIS-enhanced-SLP-for-MU-MISO)|R. Liu, etal|
 |146|[Joint Waveform Design and Passive Beamforming for RIS-Assisted Dual-functional Radar-Communication System](https://github.com/wxy1018/Waveform-Reflection-Design-for-RIS-ISAC)|X. Wang, etal|
 |147|[Toward Analytical Electromagnetic Models for Reconfigurable Intelligent Surfaces](https://github.com/mitiebin/RIS_Models)|Tiebin Mi, etal|
+|148|[A Generalized Delay and Backlog Analysis for Multiplexing URLLC and eMBB: Reconfigurable Intelligent Surfaces or Decode-and-Forward?](https://github.com/Haoran-Peng/MartingaleMultiHop)|H. Peng, etal|
+|149|[On the Impact of Mutual Coupling on RIS-Assisted Channel Estimation](https://github.com/ZPinjun/Communication)|P. Zheng, etal|
