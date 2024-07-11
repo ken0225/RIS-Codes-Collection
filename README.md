@@ -2,7 +2,7 @@
 
 # RIS-Codes-Collection: A Complete Collection contains the Codes for RIS(IRS) Researches.
 
-## Latest Update: [23/June/2024, No.151].
+## Latest Update: [11/July/2024, No.152].
 
 * If you find new code for RIS(IRS) paper, please remind me [here](https://github.com/ken0225/RIS_Codes_Collection/issues). 
 
@@ -175,3 +175,4 @@ An Electronic Reliability Perspective</a>. Compared with previous works, this pa
 |149|[On the Impact of Mutual Coupling on RIS-Assisted Channel Estimation](https://github.com/ZPinjun/Communication)|P. Zheng, etal|
 |150|[Cooperative Caching, Rendering, and Beamforming for RIS-Assisted Wireless Virtual Reality Networks](https://github.com/xjl1998/FoV-MEC-DRL)|Chen J, etal|
 |151|[RIScatter: Unifying Backscatter Communication and Reconfigurable Intelligent Surface](https://github.com/snowztail/riscatter-unifying-backscatter-communication-and-reconfigurable-intelligent-surface)|Zhao Y, etal|
+|152|[The Rumble in the Millimeter Wave Jungle: Obstructions Vs RIS](https://github.com/JuanMarcosRamirez/outage_RIS_indoor)|Juan Marcos Ramirez, etal|
