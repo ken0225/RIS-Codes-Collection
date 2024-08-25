@@ -2,7 +2,7 @@
 
 # RIS-Codes-Collection: A Complete Collection contains the Codes for RIS(IRS) Researches.
 
-## Latest Update: [11/August/2024, No.154].
+## Latest Update: [26/August/2024, No.155&156].
 
 * If you find new code for RIS(IRS) paper, please remind me [here](https://github.com/ken0225/RIS_Codes_Collection/issues). 
 
@@ -178,3 +178,5 @@ An Electronic Reliability Perspective</a>. To the best knowledge of the authors,
 |152|[The Rumble in the Millimeter Wave Jungle: Obstructions Vs RIS](https://github.com/JuanMarcosRamirez/outage_RIS_indoor)|Juan Marcos Ramirez, etal|
 |153|[Optimization of Transmit Beamforming Using Channel Covariances for MISO Downlink Assisted by Reconfigurable Intelligent Surfaces](https://github.com/khinthandarkyaw98/BF-RIS-Channel-Covariance-DeepLearning)|Khin Thandar Kyaw, etal|
 |154|[Learn to Optimize RIS Aided Hybrid Beamforming With Out-of-Distribution Generalization](https://github.com/hexingit/RIS-aided-HBF)|He X, etal|
+|155|[Pareto Frontier for the Performance-Complexity Trade-Off in Beyond Diagonal Reconfigurable Intelligent Surfaces](https://github.com/matteonerini/pareto-frontier-for-bdris)|M. Nerini, etal|
+|156|[Beyond Diagonal Reconfigurable Intelligent Surfaces Utilizing Graph Theory: Modeling, Architecture Design, and Optimization](https://github.com/matteonerini/bdris-utilizing-graph-theory)|M. Nerini, etal|
