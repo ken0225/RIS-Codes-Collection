@@ -2,7 +2,7 @@
 
 # RIS-Codes-Collection: A Complete Collection contains the Codes for RIS(IRS) Researches.
 
-## Latest Update: [26/August/2024, No.155&156].
+## Latest Update: [26/August/2024, No.157-161].
 
 * If you find new code for RIS(IRS) paper, please remind me [here](https://github.com/ken0225/RIS_Codes_Collection/issues). 
 
@@ -180,3 +180,8 @@ An Electronic Reliability Perspective</a>. To the best knowledge of the authors,
 |154|[Learn to Optimize RIS Aided Hybrid Beamforming With Out-of-Distribution Generalization](https://github.com/hexingit/RIS-aided-HBF)|He X, etal|
 |155|[Pareto Frontier for the Performance-Complexity Trade-Off in Beyond Diagonal Reconfigurable Intelligent Surfaces](https://github.com/matteonerini/pareto-frontier-for-bdris)|M. Nerini, etal|
 |156|[Beyond Diagonal Reconfigurable Intelligent Surfaces Utilizing Graph Theory: Modeling, Architecture Design, and Optimization](https://github.com/matteonerini/bdris-utilizing-graph-theory)|M. Nerini, etal|
+|157|[An Orchestration Framework for Open System Models of Reconfigurable Intelligent Surfaces](https://github.com/victorcroisfelt/self-configuring-orchestration)|Croisfelt, V, etal|
+|158|[Random Access Protocol with Channel Oracle Enabled by a Reconfigurable Intelligent Surface](https://github.com/victorcroisfelt/ris-random-access-channel-oracle)|Croisfelt, V, etal|
+|159|[A Random Access Protocol for RIS-Aided Wireless Communications](https://github.com/victorcroisfelt/a-random-access-protocol-ris-assisted)|Croisfelt, V, etal|
+|160|[Control Aspects for Using RIS in Latency-Constrained Mobile Edge Computing](https://github.com/victorcroisfelt/mec-with-ris-control)|Croisfelt, V, etal|
+|161|[On the Impact of Control Signaling in RIS-Empowered Wireless Communications](https://github.com/lostinafro/ris-control)|Croisfelt, V, etal|
