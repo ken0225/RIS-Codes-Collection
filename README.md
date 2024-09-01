@@ -2,7 +2,7 @@
 
 # RIS-Codes-Collection: A Complete Collection contains the Codes for RIS(IRS) Researches.
 
-## Latest Update: [28/August/2024, No.157-161].
+## Latest Update: [1/September/2024, No.162&163].
 
 * If you find new code for RIS(IRS) paper, please remind me [here](https://github.com/ken0225/RIS_Codes_Collection/issues). 
 
@@ -185,3 +185,5 @@ An Electronic Reliability Perspective</a>. To the best knowledge of the authors,
 |159|[A Random Access Protocol for RIS-Aided Wireless Communications](https://github.com/victorcroisfelt/a-random-access-protocol-ris-assisted)|Croisfelt, V, etal|
 |160|[Control Aspects for Using RIS in Latency-Constrained Mobile Edge Computing](https://github.com/victorcroisfelt/mec-with-ris-control)|Croisfelt, V, etal|
 |161|[On the Impact of Control Signaling in RIS-Empowered Wireless Communications](https://github.com/lostinafro/ris-control)|Fabio Saggese, etal|
+|162|[Semantic Communications for Wireless Sensing: RIS-aided Encoding and Self-supervised Decoding](https://github.com/HongyangDu/SemSensing)|Hongyang Du, etal|
+|163|[Unsupervised Learning for Joint Beamforming Design in RIS-aided ISAC Systems](https://github.com/Yejacky456/DL-Beamforming-RIS-ISAC)|Junjie Ye, etal|
