@@ -2,7 +2,7 @@
 
 # RIS-Codes-Collection: A Complete Collection contains the Codes for RIS(IRS) Researches.
 
-## Latest Update: [23/September/2024, No.165&166].
+## Latest Update: [02/October/2024, No.167].
 
 * If you find new code for RIS(IRS) paper, please remind me [here](https://github.com/ken0225/RIS_Codes_Collection/issues). 
 
@@ -190,3 +190,4 @@ An Electronic Reliability Perspective</a>. To the best knowledge of the authors,
 |164|[Robust Beamforming for RIS-aided Communications Gradient-based Manifold Meta Learning](https://github.com/fenghaozhu/GMML)|Zhu F, etal|
 |165|[Low-Complexity Sum-Capacity Maximization for Intelligent Reflecting Surface-Aided MIMO Systems](https://github.com/AhmadSirojuddin/Low-Complexity-Sum-Capacity-Maximization-for-Intelligent-Reflecting-Surface-Aided-MIMO-Systems)|Ahmad Sirojuddin, etal|
 |166|[MIMO Capacity Maximization With a Practical Model for Reconfigurable Intelligent Surfaces](https://github.com/AhmadSirojuddin/MIMO-Capacity-Maximization-With-a-Practical-Model-for-Reconfigurable-Intelligent-Surfaces)|Ahmad Sirojuddin, etal|
+|167|[Disruptive RIS for Enhancing Key Generation and Secret Transmission in Low-Entropy Environments](https://github.com/HibatallahAlwazani/RIS)|Hibatallah Alwazani, etal|
