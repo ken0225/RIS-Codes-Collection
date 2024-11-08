@@ -2,7 +2,7 @@
 
 # RIS-Codes-Collection: A Complete Collection contains the Codes for RIS(IRS) Researches.
 
-## Latest Update: [14/October/2024, No.168].
+## Latest Update: [08/November/2024, No.169].
 
 * If you find new code for RIS(IRS) paper, please remind me [here](https://github.com/ken0225/RIS_Codes_Collection/issues). 
 
@@ -192,3 +192,4 @@ An Electronic Reliability Perspective</a>. To the best knowledge of the authors,
 |166|[MIMO Capacity Maximization With a Practical Model for Reconfigurable Intelligent Surfaces](https://github.com/AhmadSirojuddin/MIMO-Capacity-Maximization-With-a-Practical-Model-for-Reconfigurable-Intelligent-Surfaces)|Ahmad Sirojuddin, etal|
 |167|[Disruptive RIS for Enhancing Key Generation and Secret Transmission in Low-Entropy Environments](https://github.com/HibatallahAlwazani/RIS)|Hibatallah Alwazani, etal|
 |168|[Joint Spectrum, Precoding, and Phase Shifts Design for RIS-Aided Multiuser MIMO THz Systems](https://github.com/Ali-Meh619/MHGphormer)|Ali Mehrabian, etal|
+|169|[Efficient Channel Estimation With Shorter Pilots in RIS-Aided Communications: Using Array Geometries and Interference Statistics](https://github.com/ozlemtugfedemir/RIS-shorter-pilots)|Özlem Tuğfe Demir, etal|
