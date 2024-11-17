@@ -2,7 +2,7 @@
 
 # RIS-Codes-Collection: A Complete Collection contains the Codes for RIS(IRS) Researches.
 
-## Latest Update: [17/November/2024, No.170].
+## Latest Update: [17/November/2024, No.170-172].
 
 * If you find new code for RIS(IRS) paper, please remind me [here](https://github.com/ken0225/RIS_Codes_Collection/issues). 
 
@@ -193,4 +193,6 @@ An Electronic Reliability Perspective</a>. To the best knowledge of the authors,
 |167|[Disruptive RIS for Enhancing Key Generation and Secret Transmission in Low-Entropy Environments](https://github.com/HibatallahAlwazani/RIS)|Hibatallah Alwazani, etal|
 |168|[Joint Spectrum, Precoding, and Phase Shifts Design for RIS-Aided Multiuser MIMO THz Systems](https://github.com/Ali-Meh619/MHGphormer)|Ali Mehrabian, etal|
 |169|[Efficient Channel Estimation With Shorter Pilots in RIS-Aided Communications: Using Array Geometries and Interference Statistics](https://github.com/ozlemtugfedemir/RIS-shorter-pilots)|Özlem Tuğfe Demir, etal|
-|170|[Multi-Scale Attention Based Channel Estimation for RIS-Aided Massive MIMO Systems](https://github.com/WiCi-Lab/LPAN)|Xiao J, etal|
+|170|[Multi-Scale Attention Based Channel Estimation for RIS-Aided Massive MIMO Systems](https://github.com/WiCi-Lab/LPAN)|J. Xiao, etal|
+|171|[Wideband Beamforming for RIS Assisted Near-Field Communications](https://github.com/WiCi-Lab/NFWB_RIS)|J. Wang, etal|
+|172|[Multi-Task Learning for Channel Estimation in Hybrid-Field STAR-RIS Networks](https://github.com/WiCi-Lab/MTN)|J. Xiao, etal|
