@@ -2,7 +2,7 @@
 
 # RIS-Codes-Collection: A Complete Collection contains the Codes for RIS(IRS) Researches.
 
-## Latest Update: [17/November/2024, No.170-173].
+## Latest Update: [02/December/2024, No.174].
 
 * If you find new code for RIS(IRS) paper, please remind me [here](https://github.com/ken0225/RIS_Codes_Collection/issues). 
 
@@ -196,4 +196,5 @@ An Electronic Reliability Perspective</a>. To the best knowledge of the authors,
 |170|[Multi-Scale Attention Based Channel Estimation for RIS-Aided Massive MIMO Systems](https://github.com/WiCi-Lab/LPAN)|J. Xiao, etal|
 |171|[Wideband Beamforming for RIS Assisted Near-Field Communications](https://github.com/WiCi-Lab/NFWB_RIS)|J. Wang, etal|
 |172|[Multi-Task Learning for Channel Estimation in Hybrid-Field STAR-RIS Networks](https://github.com/WiCi-Lab/MTN)|J. Xiao, etal|
-|172|[Hybrid Near/Far-Field Channel Prediction for RIS-Aided LEO Satellite Networks](https://github.com/WiCi-Lab/SIN)|J. Xiao, etal|
+|173|[Hybrid Near/Far-Field Channel Prediction for RIS-Aided LEO Satellite Networks](https://github.com/WiCi-Lab/SIN)|J. Xiao, etal|
+|174|[Deep Learning Based Near-Field User Localization with Beam Squint in Wideband XL-MIMO Systems](https://github.com/HaoLei-tnunder/Deep_Learning_Based_Near-Field_User_Localization_with_Beam_Squint_in_Wideband_XL-MIMO_Systems)|H. Lei, etal|
