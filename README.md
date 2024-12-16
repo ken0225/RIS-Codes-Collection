@@ -23,7 +23,7 @@ An Electronic Reliability Perspective</a>. To the best knowledge of the authors,
 
 [![RIS-Codes-Collection](https://api.star-history.com/svg?repos=ken0225/RIS-Codes-Collection)](https://star-history.com/#datawhalechina/leedl-tutorial&Date).
 
-* Project details:
+* Project details\:
   
 |No.| Paper Title | Authors | 
 | ------ | ------ | ------ |
