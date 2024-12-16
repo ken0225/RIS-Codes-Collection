@@ -17,13 +17,13 @@
 * If you are interested in hardware impairments in the RIS-aided system, I recommend the work that has been published in IEEE VTC2023-Fall: <a href="http://kewang.fun/hardware_aging_RIS_vtc23f_Ken.pdf">How Long Can RIS Work Effectively: 
 An Electronic Reliability Perspective</a>. To the best knowledge of the authors, this is the first work on operation (running) times of the RIS, which reveals a new dimension (and metric) for analyzing and evaluating the RIS-aided system performance. You can also find this work in IEEE Xplore <a href="https://ieeexplore.ieee.org/document/10333489">here</a>. Besides, for practical RIS pixels, we find that phase errors not only exist in phase shifts but also in phase-dependent amplitudes. This work has been accepted in IEEE VTC2024-Fall: <a href="http://kewang.fun/PDA_NF_RIS_vtc24f.pdf">How Phase Errors Influence Phase-Dependent Amplitudes in Near-Field RISs?</a> You can also find this work in IEEE Xplore <a href="https://ieeexplore.ieee.org/document/10757766">here</a>.
 
-* My personal page is available: [kewang.fun](http://kewang.fun)
+* My personal page is available: [kewang.fun](http://kewang.fun).
 
 * Star history
 
-[![RIS-Codes-Collection](https://api.star-history.com/svg?repos=ken0225/RIS-Codes-Collection)](https://star-history.com/#datawhalechina/leedl-tutorial&Date)
+[![RIS-Codes-Collection](https://api.star-history.com/svg?repos=ken0225/RIS-Codes-Collection)](https://star-history.com/#datawhalechina/leedl-tutorial&Date).
 
-* Project details
+* Project details:
   
 |No.| Paper Title | Authors | 
 | ------ | ------ | ------ |
