@@ -19,11 +19,11 @@ An Electronic Reliability Perspective</a>. To the best knowledge of the authors,
 
 * My personal page is available: [kewang.fun](http://kewang.fun).
 
-* Star history
+* Star history:
 
 [![RIS-Codes-Collection](https://api.star-history.com/svg?repos=ken0225/RIS-Codes-Collection)](https://star-history.com/#datawhalechina/leedl-tutorial&Date).
 
-* Project details\:
+* Project details:
   
 |No.| Paper Title | Authors | 
 | ------ | ------ | ------ |
