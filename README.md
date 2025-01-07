@@ -96,7 +96,7 @@ An Electronic Reliability Perspective</a>. To the best knowledge of the authors,
 |69|[Achievable Rate Optimization for MIMO Systems with Reconfigurable Intelligent Surfaces](https://github.com/tranlenam/RateMaxMIMORIS)|Nemanja Stefan Perović, etal.|
 |70|[Channel Characterization for RIS-aided Terahertz Communications: A Stochastic Approach](https://github.com/thanhluannguyen/THz-RIS-Stochastic)|Thanh Luan Nguyen, etal.|
 |71|[Intelligent Reflecting Surface Configurations for Smart Radio Using Deep Reinforcement Learning](https://github.com/WeiWang-WYS/IRSconfigurationDRL)|Wei Wang, etal.|
-|72|[STAR-RIS](https://github.com/STAR-Yuanwei-Liu/Performance-analysis-for-wireless-communications)|Yuanwei Liu, etal.|
+|72|[STAR-RIS-Lab](https://github.com/STAR-Yuanwei-Liu)|Yuanwei Liu, etal.|
 |73|[6G Simulation Platform: From the Physical-layer to Networking with RIS](https://github.com/alexpapad95/6G-simulation-platform)|Alexandros Papadopoulos, etal.|
 |74|[RIS-Aided 6G Communication System With Accurate Traceable User Mobility](https://github.com/Jumper1-rgb/RIS_Beam_tracking_EKF)|P. Zhang, etal.|
 |75|[Optimal Discrete Beamforming of Reconfigurable Intelligent Surface](https://github.com/RujingXiong/RIS_Optimization)|Rujing Xiong,, etal.|
