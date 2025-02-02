@@ -2,7 +2,7 @@
 
 # RIS-Codes-Collection: A Complete Collection contains the Codes for RIS(IRS) Researches.
 
-## Latest Update: [22/December/2024, No.175]
+## Latest Update: [02/Feb/2025, No.176&177]
 
 * If you find new code for RIS(IRS) paper, please remind me [here](https://github.com/ken0225/RIS_Codes_Collection/issues). 
 
@@ -199,3 +199,5 @@ An Electronic Reliability Perspective</a>. To the best knowledge of the authors,
 |173|[Hybrid Near/Far-Field Channel Prediction for RIS-Aided LEO Satellite Networks](https://github.com/WiCi-Lab/SIN)|J. Xiao, etal|
 |174|[Deep Learning Based Near-Field User Localization with Beam Squint in Wideband XL-MIMO Systems](https://github.com/HaoLei-tnunder/Deep_Learning_Based_Near-Field_User_Localization_with_Beam_Squint_in_Wideband_XL-MIMO_Systems)|H. Lei, etal|
 |175|[RIS-Aided Joint Channel Estimation and Localization at mmWave Under Hardware Impairments: A Dictionary Learning-Based Approach](https://github.com/WiSeCom-Lab/RIS-ray-tracing)|Murat Bayraktar, etal|
+|176|[Active Beam Tracking with Reconfigurable Intelligent Surface](https://github.com/HanHanCoding/Active-Beam-Tracking-with-RIS)|Han Han, etal|
+|177|[Active Sensing for Multiuser Beam Tracking with Reconfigurable Intelligent Surface](https://github.com/HanHanCoding/MUTracking-ActiveSensing)|Han Han, etal|
