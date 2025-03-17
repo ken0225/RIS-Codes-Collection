@@ -2,7 +2,7 @@
 
 # RIS-Codes-Collection: A Complete Collection contains the Codes for RIS(IRS) Researches.
 
-## Latest Update: [02/Feb/2025, No.176&177]
+## Latest Update: [17/March/2025, No.178]
 
 * If you find new code for RIS(IRS) paper, please remind me [here](https://github.com/ken0225/RIS_Codes_Collection/issues). 
 
@@ -201,3 +201,4 @@ An Electronic Reliability Perspective</a>. To the best knowledge of the authors,
 |175|[RIS-Aided Joint Channel Estimation and Localization at mmWave Under Hardware Impairments: A Dictionary Learning-Based Approach](https://github.com/WiSeCom-Lab/RIS-ray-tracing)|Murat Bayraktar, etal|
 |176|[Active Beam Tracking with Reconfigurable Intelligent Surface](https://github.com/HanHanCoding/Active-Beam-Tracking-with-RIS)|Han Han, etal|
 |177|[Active Sensing for Multiuser Beam Tracking with Reconfigurable Intelligent Surface](https://github.com/HanHanCoding/MUTracking-ActiveSensing)|Han Han, etal|
+|178|[Downlink Performance Analysis of Extremely Large-Scale MIMO-OFDM Systems for High-Speed Railway](https://github.com/WenhuiYi-129/Downlink-Performance-Analysis-of-Extremely-Large-Scale-MIMO-OFDM-Systems-for-High-Speed-Railway)|W. Yi, etal|
