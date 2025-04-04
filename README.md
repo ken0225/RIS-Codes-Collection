@@ -3,7 +3,7 @@
 # RIS-Codes-Collection: A Complete Collection contains the Codes for RIS(IRS) Researches.
 
 ## First Update: [05/January/2021]
-## Latest Update: [26/March/2025, No.180]
+## Latest Update: [04/April/2025, No.181]
 
 * If you find new code for RIS(IRS) paper, please remind me [here](https://github.com/ken0225/RIS_Codes_Collection/issues). 
 
@@ -205,3 +205,4 @@ An Electronic Reliability Perspective</a>. To the best knowledge of the authors,
 |178|[Downlink Performance Analysis of Extremely Large-Scale MIMO-OFDM Systems for High-Speed Railway](https://github.com/WenhuiYi-129/Downlink-Performance-Analysis-of-Extremely-Large-Scale-MIMO-OFDM-Systems-for-High-Speed-Railway)|W. Yi, etal|
 |179|[Analytical Framework for Effective Degrees of Freedom in Near-Field XL-MIMO](https://github.com/ZheWang77/Analytical_Framework_for_EDoF_in_Near-Field_XL-MIMO)|Z. Wang, etal|
 |180|[Iterative Detection and Decoding for Multiuser Systems Based on MMSE Refinements With Active or Passive RIS](https://github.com/rocage/iddMIMO-RIS)|Roberto C. G. Porto, etal|
+|181|[MIMO capacity maximization with beyond-diagonal RIS](https://github.com/IgnacioSantamaria/Code-BD-RIS-SPAWC2024)|I. Santamaria, etal|
