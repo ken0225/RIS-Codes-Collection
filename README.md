@@ -3,7 +3,7 @@
 # RIS-Codes-Collection: A Complete Collection contains the Codes for RIS(IRS) Researches.
 
 ## First Update: [05/January/2021]
-## Latest Update: [04/April/2025, No.181]
+## Latest Update: [09/May/2025, No.182]
 
 * If you find new code for RIS(IRS) paper, please remind me [here](https://github.com/ken0225/RIS_Codes_Collection/issues). 
 
@@ -206,3 +206,4 @@ An Electronic Reliability Perspective</a>. To the best knowledge of the authors,
 |179|[Analytical Framework for Effective Degrees of Freedom in Near-Field XL-MIMO](https://github.com/ZheWang77/Analytical_Framework_for_EDoF_in_Near-Field_XL-MIMO)|Z. Wang, etal|
 |180|[Iterative Detection and Decoding for Multiuser Systems Based on MMSE Refinements With Active or Passive RIS](https://github.com/rocage/iddMIMO-RIS)|Roberto C. G. Porto, etal|
 |181|[MIMO Capacity Maximization with Beyond-Diagonal RIS](https://github.com/IgnacioSantamaria/Code-BD-RIS-SPAWC2024)|I. Santamaria, etal|
+|182|[Simultaneously Transmitting and Reflecting Surface (STARS) for Terahertz Communications](https://github.com/zhaolin820/STAR-RIS-for-terahertz-communications)|Z. Wang, etal|
