@@ -3,7 +3,7 @@
 # RIS-Codes-Collection: A Complete Collection contains the Codes for RIS(IRS) Researches.
 
 ## First Update: [05/January/2021]
-## Latest Update: [09/May/2025, No.182]
+## Latest Update: [03/July/2025, No.183 - No.185]
 
 * If you find new code for RIS(IRS) paper, please remind me [here](https://github.com/ken0225/RIS_Codes_Collection/issues). 
 
@@ -207,3 +207,6 @@ An Electronic Reliability Perspective</a>. To the best knowledge of the authors,
 |180|[Iterative Detection and Decoding for Multiuser Systems Based on MMSE Refinements With Active or Passive RIS](https://github.com/rocage/iddMIMO-RIS)|Roberto C. G. Porto, etal|
 |181|[MIMO Capacity Maximization with Beyond-Diagonal RIS](https://github.com/IgnacioSantamaria/Code-BD-RIS-SPAWC2024)|I. Santamaria, etal|
 |182|[Simultaneously Transmitting and Reflecting Surface (STARS) for Terahertz Communications](https://github.com/zhaolin820/STAR-RIS-for-terahertz-communications)|Z. Wang, etal|
+|183|[Stacked Intelligent Metasurfaces for Efficient Holographic MIMO Communications in 6G](https://github.com/jiancheng-an/SIM-1-MIMO)|Jiancheng An, etal|
+|184|[Stacked Intelligent Metasurfaces for Multiuser Beamforming in the Wave Domain](https://github.com/jiancheng-an/SIM-2-MUMISO)|Jiancheng An, etal|
+|185|[Two-Dimensional Direction-of-Arrival Estimation Using Stacked Intelligent Metasurfaces](https://github.com/jiancheng-an/JSAC-2024-SIM-DOA-estimation)|Jiancheng An, etal|
