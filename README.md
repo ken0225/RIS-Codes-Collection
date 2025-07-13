@@ -3,7 +3,7 @@
 # RIS-Codes-Collection: A Complete Collection contains the Codes for RIS(IRS) Researches.
 
 ## First Update: [05/January/2021]
-## Latest Update: [03/July/2025, No.183 - No.185]
+## Latest Update: [13/July/2025, No.186 - No.186]
 
 * If you find new code for RIS(IRS) paper, please remind me [here](https://github.com/ken0225/RIS_Codes_Collection/issues). 
 
@@ -210,3 +210,5 @@ An Electronic Reliability Perspective</a>. To the best knowledge of the authors,
 |183|[Stacked Intelligent Metasurfaces for Efficient Holographic MIMO Communications in 6G](https://github.com/jiancheng-an/SIM-1-MIMO)|Jiancheng An, etal|
 |184|[Stacked Intelligent Metasurfaces for Multiuser Beamforming in the Wave Domain](https://github.com/jiancheng-an/SIM-2-MUMISO)|Jiancheng An, etal|
 |185|[Two-Dimensional Direction-of-Arrival Estimation Using Stacked Intelligent Metasurfaces](https://github.com/jiancheng-an/JSAC-2024-SIM-DOA-estimation)|Jiancheng An, etal|
+|186|[Optimal Discrete Beamforming of RIS-Aided Wireless Communications: An Inner Product Maximization Approach](https://github.com/RujingXiong/RIS_Optimization)|Xiong, Rujing, etal|
+|187|[Fair Beam Allocations through Reconfigurable Intelligent Surfaces](https://github.com/RujingXiong/RIS_Explicit-Beamforming)|Xiong, Rujing, etal|
