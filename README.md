@@ -3,7 +3,7 @@
 # RIS-Codes-Collection: A Complete Collection contains the Codes for RIS(IRS) Researches.
 
 ## First Update: [05/January/2021]
-## Latest Update: [13/July/2025, No.186 - No.187]
+## Latest Update: [22/July/2025, No.188]
 
 * If you find new code for RIS(IRS) paper, please remind me [here](https://github.com/ken0225/RIS_Codes_Collection/issues). 
 
@@ -212,3 +212,4 @@ An Electronic Reliability Perspective</a>. To the best knowledge of the authors,
 |185|[Two-Dimensional Direction-of-Arrival Estimation Using Stacked Intelligent Metasurfaces](https://github.com/jiancheng-an/JSAC-2024-SIM-DOA-estimation)|Jiancheng An, etal|
 |186|[Optimal Discrete Beamforming of RIS-Aided Wireless Communications: An Inner Product Maximization Approach](https://github.com/RujingXiong/RIS_Optimization)|Xiong, Rujing, etal|
 |187|[Fair Beam Allocations through Reconfigurable Intelligent Surfaces](https://github.com/RujingXiong/RIS_Explicit-Beamforming)|Xiong, Rujing, etal|
+|188|[Worst-case MSE Minimization for RIS-assisted mmWave MU-MISO Systems with Hardware Impairments and Imperfect CSI](https://github.com/paulchen2713/RIS-MISO-HWI-DRL)|S. -H. Chen, etal|
