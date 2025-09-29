@@ -3,7 +3,7 @@
 # RIS-Codes-Collection: A Complete Collection contains the Codes for RIS(IRS) Researches.
 
 ## First Update: [05/January/2021]
-## Latest Update: [24/September/2025, No.191]
+## Latest Update: [29/September/2025, No.192]
 
 * If you find new code for RIS(IRS) paper, please remind me [here](https://github.com/ken0225/RIS_Codes_Collection/issues). 
 
@@ -216,3 +216,4 @@ An Electronic Reliability Perspective</a>. To the best knowledge of the authors,
 |189|[Dynamic Association Optimization in RIS-Enabled Mobile Wireless Systems](https://github.com/MaYuyin2/Outage-probability)|Ma Y, etal|
 |190|[Random Access in IRS-assisted 802.11 Networks](https://github.com/tkn-tub/ns3irs)|Rühlow J, etal|
 |191|[Nonreciprocal RIS aided Covert Channel Reciprocity Attacks and Countermeasures](https://github.com/LS-Wireless/SecureCoder-NR-RIS)|Haoyu Wang, etal|
+|192|[Integrated Communication and Learned Recognizer with Customized RIS Phases and Sensing Durations](https://github.com/kiwi1944/CRISense)|Yixuan Huang, etal|
