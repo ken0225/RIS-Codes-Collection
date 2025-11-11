@@ -3,7 +3,7 @@
 # RIS-Codes-Collection: A Complete Collection contains the Codes for RIS(IRS) Researches.
 
 ## First Update: [05/January/2021]
-## Latest Update: [29/October/2025, No.194]
+## Latest Update: [29/October/2025, No.195 - No.197]
 
 * If you find new code for RIS(IRS) paper, please remind me [here](https://github.com/ken0225/RIS_Codes_Collection/issues). 
 
@@ -219,3 +219,6 @@ An Electronic Reliability Perspective</a>. To the best knowledge of the authors,
 |192|[Integrated Communication and Learned Recognizer with Customized RIS Phases and Sensing Durations](https://github.com/kiwi1944/CRISense)|Yixuan Huang, etal|
 |193|[Data-Driven Deployment of Reconfigurable Intelligent Surfaces in Cellular Networks](https://github.com/Telefonica-Scientific-Research/DDRD)|Sina Beyraghi, etal|
 |194|[Transmissive RIS-Based Fair Beam Synthesis and Directional Suppression](https://github.com/RujingXiong/RIS_BeamSynthesisAndSuppression)|Rujing Xiong, etal|
+|195|[RIS-aided integrated sensing and communication: Joint beamforming and reflection design](https://minglabdut.com/resource_chinese.html)|H. Luo, etal|
+|196|[Joint transceiver beamforming and reflecting design for active RIS-aided ISAC systems](https://minglabdut.com/resource_chinese.html)|Q. Zhu, etal|
+|197|[Cramer-Rao bound optimization for active RIS-empowered ISAC systems](https://minglabdut.com/resource_chinese.html)|Q. Zhu, etal|
