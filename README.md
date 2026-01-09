@@ -15,8 +15,7 @@
 
 * I'm in charge of this project, but if the code you're looking for isn't in the repertory, I **CANNOT** help you find it elsewhere.
 
-* If you are interested in hardware impairments in the RIS-aided system, I recommend the work that has been published in IEEE VTC2023-Fall: <a href="http://kewang.fun/hardware_aging_RIS_vtc23f_Ken.pdf">How Long Can RIS Work Effectively: 
-An Electronic Reliability Perspective</a>. To the best knowledge of the authors, this is the first work on operation (running) times of the RIS, which reveals a new dimension (and metric) for analyzing and evaluating the RIS-aided system performance. You can also find this work in IEEE Xplore <a href="https://ieeexplore.ieee.org/document/10333489">here</a>. Besides, for practical RIS pixels, we find that phase errors not only exist in phase shifts but also in phase-dependent amplitudes. This work has been accepted in IEEE VTC2024-Fall: <a href="http://kewang.fun/PDA_NF_RIS_vtc24f.pdf">How Phase Errors Influence Phase-Dependent Amplitudes in Near-Field RISs?</a> You can also find this work in IEEE Xplore <a href="https://ieeexplore.ieee.org/document/10757766">here</a>.
+* While RIS research is getting crowded, meaningful contributions still stand out. Check out <a href="https://ieeexplore.ieee.org/document/11314716">our latest paper</a>, "**On the Impact of Phase Errors in Phase-Dependent Amplitudes of Near-Field RISs**," recently published in IEEE Transactions on Vehicular Technology. It investigates the critical coupling between phase-dependent amplitudes and phase errors in near-field RIS. By accounting for these effects, our model corrects existing overestimation in the literature. The MATLAB code has also been <a href="https://github.com/ken0225/On-Impact-PEs-PDAs-NF-RISs">open-sourced</a> on GitHub.
 
 * My personal page is available: [kewang.fun](http://kewang.fun).
 
