@@ -1,4 +1,4 @@
-## IMPORTANT: If you in any way use the code in this collection for research that results in publications, please CITE the original article. I also recommend that you mention the existence of the code package that you use in your manuscript, to spread the word about its existence and to ensure that you will not be accused of plagiarism by the reviewers of your manuscript.
+IMPORTANT: If you in any way use the code in this collection for research that results in publications, please CITE the original article. I also recommend that you mention the existence of the code package that you use in your manuscript, to spread the word about its existence and to ensure that you will not be accused of plagiarism by the reviewers of your manuscript.
 
 # RIS-Codes-Collection: A Complete Collection contains the Codes for RIS(IRS) Researches.
 
@@ -15,7 +15,7 @@
 
 * I'm in charge of this project, but if the code you're looking for isn't in the repertory, I **CANNOT** help you find it elsewhere.
 
-* While RIS research is getting crowded, meaningful contributions still stand out. Check out <a href="https://ieeexplore.ieee.org/document/11314716">our latest paper</a>, "**On the Impact of Phase Errors in Phase-Dependent Amplitudes of Near-Field RISs**," recently published in IEEE Transactions on Vehicular Technology. It investigates the critical coupling between phase-dependent amplitudes and phase errors in near-field RIS. By accounting for these effects, our model corrects existing overestimation in the literature. The MATLAB code has also been <a href="https://github.com/ken0225/On-Impact-PEs-PDAs-NF-RISs">open-sourced</a> on GitHub.
+* **While RIS research is getting crowded, meaningful contributions still stand out. Check out <a href="https://ieeexplore.ieee.org/document/11314716">our latest paper</a>, "**On the Impact of Phase Errors in Phase-Dependent Amplitudes of Near-Field RISs**," recently published in IEEE Transactions on Vehicular Technology. It investigates the critical coupling between phase-dependent amplitudes and phase errors in near-field RIS. By accounting for these effects, our model corrects existing overestimation in the literature. The MATLAB code has also been <a href="https://github.com/ken0225/On-Impact-PEs-PDAs-NF-RISs">open-sourced</a> on GitHub.**
 
 * My personal page is available: [kewang.fun](http://kewang.fun).
 
