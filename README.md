@@ -3,7 +3,7 @@
 # RIS-Codes-Collection: A Complete Collection contains the Codes for RIS(IRS) Researches.
 
 ## First Update: [05/January/2021]
-## Latest Update: [10/January/2026, No.201]
+## Latest Update: [21/February/2026, No.202]
 
 * If you find new code for RIS(IRS) paper, please remind me [here](https://github.com/ken0225/RIS_Codes_Collection/issues). 
 
@@ -225,3 +225,4 @@
 |199|[On the Impact of Phase Errors in Phase-Dependent Amplitudes of Near-Field RISs](https://github.com/ken0225/On-Impact-PEs-PDAs-NF-RISs)|K. Wang, etal|
 |200|[A RIS-Based Vehicle DOA Estimation Method With Integrated Sensing and Communication System](https://github.com/chenpengseu/PassiveDOA-ISAC-RIS)|Z. Chen, etal|
 |201|[UAV-Mounted RIS Optimization via Constrained Contextual Bandits](https://github.com/AnKhSaid/UAV-Mounted-RIS-Contextual-Bandit)|Anas K. Saeed, etal|
+|202|[Joint Spectrum, Precoding, and Phase Shifts Design for RIS-Aided Multiuser MIMO THz Systems](https://github.com/Ali-Meh619/MHGphormer)|Mehrabian. Ali, etal|
