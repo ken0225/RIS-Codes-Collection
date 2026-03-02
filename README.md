@@ -3,7 +3,7 @@ _IMPORTANT: If you in any way use the code in this collection for research that 
 # RIS-Codes-Collection: A Complete Collection contains the Codes for RIS(IRS) Researches.
 
 ## First Update: [05/January/2021, No.1]
-## Latest Update: [21/February/2026, No.202]
+## Latest Update: [2/March/2026, No.203 - No.205]
 
 * If you find new code for RIS(IRS) paper, please remind me [here](https://github.com/ken0225/RIS_Codes_Collection/issues). 
 
@@ -226,3 +226,6 @@ _IMPORTANT: If you in any way use the code in this collection for research that 
 |200|[A RIS-Based Vehicle DOA Estimation Method With Integrated Sensing and Communication System](https://github.com/chenpengseu/PassiveDOA-ISAC-RIS)|Z. Chen, etal|
 |201|[UAV-Mounted RIS Optimization via Constrained Contextual Bandits](https://github.com/AnKhSaid/UAV-Mounted-RIS-Contextual-Bandit)|Anas K. Saeed, etal|
 |202|[Joint Spectrum, Precoding, and Phase Shifts Design for RIS-Aided Multiuser MIMO THz Systems](https://github.com/Ali-Meh619/MHGphormer)|Mehrabian. Ali, etal|
+|203|[Dual-Polarized Beyond Diagonal RIS](https://github.com/matteonerini/dual-polarized-bdris)|M. Nerini, etal|
+|204|[Physics-Compliant Modeling and Scaling Laws of Multi-RIS Aided MIMO Systems](https://github.com/matteonerini/multi-ris)|M. Nerini, etal|
+|205|[Global Optimal Closed-Form Solutions for Intelligent Surfaces With Mutual Coupling: Is Mutual Coupling Detrimental or Beneficial?](https://github.com/matteonerini/ris-mutual-coupling)|M. Nerini, etal|
