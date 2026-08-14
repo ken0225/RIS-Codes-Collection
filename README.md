@@ -21,10 +21,6 @@ _IMPORTANT: If you in any way use the code in this collection for research that 
 
 * My personal page is available: [kewang.fun](http://kewang.fun).
 
-* Star history:
-
-[![RIS-Codes-Collection](https://api.star-history.com/svg?repos=ken0225/RIS-Codes-Collection)](https://star-history.com/#datawhalechina/leedl-tutorial&Date).
-
 * Project details:
   
 |No.| Paper Title | Authors | 
