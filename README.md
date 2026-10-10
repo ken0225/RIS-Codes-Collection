@@ -3,7 +3,7 @@ _IMPORTANT: If you in any way use the code in this collection for research that 
 # RIS-Codes-Collection: A Complete Collection contains the Codes for RIS(IRS) Researches.
 
 ## First Update: [05/January/2021, No.1]
-## Latest Update: [28/September/2026, No.214 - No.217]
+## Latest Update: [28/October/2026, No.218]
 
 * If you find new code for RIS(IRS) paper, please remind me [here](https://github.com/ken0225/RIS_Codes_Collection/issues). 
 
@@ -237,3 +237,4 @@ _IMPORTANT: If you in any way use the code in this collection for research that 
 |215|[RIS-Assisted Wireless Powered MEC: Multiple Access Design and Resource Allocation](https://web.xidian.edu.cn/lulv/paper.html)|Lu Lv, etal|
 |216|[Hybrid NOMA Offloading with Semi-Dynamic IRS Beamforming in Wireless Powered MEC Systems](https://web.xidian.edu.cn/lulv/paper.html)|Lu Lv, etal|
 |217|[Self-Sustainable Intelligent Omni-Surface Aided Wireless Networks: Protocol Design and Resource Allocation](https://web.xidian.edu.cn/lulv/paper.html)|Lu Lv, etal|
+|218|[From Reliability to Security: How RIS-Assisted Adaptive SM and SSK Enhances Wireless Systems](https://github.com/ChaoRong-Zhang/RIS-Assisted-Received-Adaptive-SM-and-SSK)|Chaorong Zhang, etal|
